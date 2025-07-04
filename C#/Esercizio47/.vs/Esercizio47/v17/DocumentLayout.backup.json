@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sammy\\source\\repos\\Esercizio47\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4346A9F0-E7F6-4554-8014-BC1EA09EC91D}|Esercizio47\\Esercizio47.csproj|c:\\users\\sammy\\source\\repos\\esercizio47\\esercizio47\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4346A9F0-E7F6-4554-8014-BC1EA09EC91D}|Esercizio47\\Esercizio47.csproj|solutionrelative:esercizio47\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sammy\\source\\repos\\Esercizio47\\Esercizio47\\Program.cs",
+              "RelativeDocumentMoniker": "Esercizio47\\Program.cs",
+              "ToolTip": "C:\\Users\\Sammy\\source\\repos\\Esercizio47\\Esercizio47\\Program.cs",
+              "RelativeToolTip": "Esercizio47\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T15:03:30.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

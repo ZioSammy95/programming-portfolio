@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Esercizio 142</title>
+    <style>
+        input[type="text"] {
+            display: block;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <script>
+        class Utente {
+            constructor(nome, cognome) {
+                this.nome = nome;
+                this.cognome = cognome;
+            }
+
+            generaEmail() {
+                const email = `${this.nome.toLowerCase()}.${this.cognome.toLowerCase()}@example.com`;
+                return email;
+            }
+        }
+
+        const utente = new Utente("Mario", "Rossi");
+        const email = utente.generaEmail();
+        console.log("Indirizzo email:", email);
+    </script>
+</body>
+
+</html>

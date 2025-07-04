@@ -1,0 +1,14 @@
+C:\Users\Sammy\source\repos\Esercizio20\Esercizio20\bin\Debug\net8.0\Esercizio20.exe
+C:\Users\Sammy\source\repos\Esercizio20\Esercizio20\bin\Debug\net8.0\Esercizio20.deps.json
+C:\Users\Sammy\source\repos\Esercizio20\Esercizio20\bin\Debug\net8.0\Esercizio20.runtimeconfig.json
+C:\Users\Sammy\source\repos\Esercizio20\Esercizio20\bin\Debug\net8.0\Esercizio20.dll
+C:\Users\Sammy\source\repos\Esercizio20\Esercizio20\bin\Debug\net8.0\Esercizio20.pdb
+C:\Users\Sammy\source\repos\Esercizio20\Esercizio20\obj\Debug\net8.0\Esercizio20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sammy\source\repos\Esercizio20\Esercizio20\obj\Debug\net8.0\Esercizio20.AssemblyInfoInputs.cache
+C:\Users\Sammy\source\repos\Esercizio20\Esercizio20\obj\Debug\net8.0\Esercizio20.AssemblyInfo.cs
+C:\Users\Sammy\source\repos\Esercizio20\Esercizio20\obj\Debug\net8.0\Esercizio20.csproj.CoreCompileInputs.cache
+C:\Users\Sammy\source\repos\Esercizio20\Esercizio20\obj\Debug\net8.0\Esercizio20.dll
+C:\Users\Sammy\source\repos\Esercizio20\Esercizio20\obj\Debug\net8.0\refint\Esercizio20.dll
+C:\Users\Sammy\source\repos\Esercizio20\Esercizio20\obj\Debug\net8.0\Esercizio20.pdb
+C:\Users\Sammy\source\repos\Esercizio20\Esercizio20\obj\Debug\net8.0\Esercizio20.genruntimeconfig.cache
+C:\Users\Sammy\source\repos\Esercizio20\Esercizio20\obj\Debug\net8.0\ref\Esercizio20.dll

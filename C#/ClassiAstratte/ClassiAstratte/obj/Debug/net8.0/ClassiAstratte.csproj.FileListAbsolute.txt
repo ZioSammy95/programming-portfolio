@@ -1,0 +1,14 @@
+C:\Users\Sammy\OneDrive\Desktop\C#\ClassiAstratte\ClassiAstratte\bin\Debug\net8.0\ClassiAstratte.exe
+C:\Users\Sammy\OneDrive\Desktop\C#\ClassiAstratte\ClassiAstratte\bin\Debug\net8.0\ClassiAstratte.deps.json
+C:\Users\Sammy\OneDrive\Desktop\C#\ClassiAstratte\ClassiAstratte\bin\Debug\net8.0\ClassiAstratte.runtimeconfig.json
+C:\Users\Sammy\OneDrive\Desktop\C#\ClassiAstratte\ClassiAstratte\bin\Debug\net8.0\ClassiAstratte.dll
+C:\Users\Sammy\OneDrive\Desktop\C#\ClassiAstratte\ClassiAstratte\bin\Debug\net8.0\ClassiAstratte.pdb
+C:\Users\Sammy\OneDrive\Desktop\C#\ClassiAstratte\ClassiAstratte\obj\Debug\net8.0\ClassiAstratte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sammy\OneDrive\Desktop\C#\ClassiAstratte\ClassiAstratte\obj\Debug\net8.0\ClassiAstratte.AssemblyInfoInputs.cache
+C:\Users\Sammy\OneDrive\Desktop\C#\ClassiAstratte\ClassiAstratte\obj\Debug\net8.0\ClassiAstratte.AssemblyInfo.cs
+C:\Users\Sammy\OneDrive\Desktop\C#\ClassiAstratte\ClassiAstratte\obj\Debug\net8.0\ClassiAstratte.csproj.CoreCompileInputs.cache
+C:\Users\Sammy\OneDrive\Desktop\C#\ClassiAstratte\ClassiAstratte\obj\Debug\net8.0\ClassiAstratte.dll
+C:\Users\Sammy\OneDrive\Desktop\C#\ClassiAstratte\ClassiAstratte\obj\Debug\net8.0\refint\ClassiAstratte.dll
+C:\Users\Sammy\OneDrive\Desktop\C#\ClassiAstratte\ClassiAstratte\obj\Debug\net8.0\ClassiAstratte.pdb
+C:\Users\Sammy\OneDrive\Desktop\C#\ClassiAstratte\ClassiAstratte\obj\Debug\net8.0\ClassiAstratte.genruntimeconfig.cache
+C:\Users\Sammy\OneDrive\Desktop\C#\ClassiAstratte\ClassiAstratte\obj\Debug\net8.0\ref\ClassiAstratte.dll

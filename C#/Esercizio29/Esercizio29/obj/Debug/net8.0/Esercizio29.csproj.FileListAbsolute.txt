@@ -1,0 +1,14 @@
+C:\Users\Sammy\source\repos\Esercizio29\Esercizio29\obj\Debug\net8.0\Esercizio29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sammy\source\repos\Esercizio29\Esercizio29\obj\Debug\net8.0\Esercizio29.AssemblyInfoInputs.cache
+C:\Users\Sammy\source\repos\Esercizio29\Esercizio29\obj\Debug\net8.0\Esercizio29.AssemblyInfo.cs
+C:\Users\Sammy\source\repos\Esercizio29\Esercizio29\obj\Debug\net8.0\Esercizio29.csproj.CoreCompileInputs.cache
+C:\Users\Sammy\source\repos\Esercizio29\Esercizio29\bin\Debug\net8.0\Esercizio29.exe
+C:\Users\Sammy\source\repos\Esercizio29\Esercizio29\bin\Debug\net8.0\Esercizio29.deps.json
+C:\Users\Sammy\source\repos\Esercizio29\Esercizio29\bin\Debug\net8.0\Esercizio29.runtimeconfig.json
+C:\Users\Sammy\source\repos\Esercizio29\Esercizio29\bin\Debug\net8.0\Esercizio29.dll
+C:\Users\Sammy\source\repos\Esercizio29\Esercizio29\bin\Debug\net8.0\Esercizio29.pdb
+C:\Users\Sammy\source\repos\Esercizio29\Esercizio29\obj\Debug\net8.0\Esercizio29.dll
+C:\Users\Sammy\source\repos\Esercizio29\Esercizio29\obj\Debug\net8.0\refint\Esercizio29.dll
+C:\Users\Sammy\source\repos\Esercizio29\Esercizio29\obj\Debug\net8.0\Esercizio29.pdb
+C:\Users\Sammy\source\repos\Esercizio29\Esercizio29\obj\Debug\net8.0\Esercizio29.genruntimeconfig.cache
+C:\Users\Sammy\source\repos\Esercizio29\Esercizio29\obj\Debug\net8.0\ref\Esercizio29.dll

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Submit Form</title>
+</head>
+
+<body>
+
+    <form id="mioForm">
+        <input type="text" name="nome" placeholder="Inserisci il tuo nome">
+        <button type="submit">Invia</button>
+    </form>
+
+    <script>
+        // 1. Seleziona il modulo
+        const form = document.getElementById("mioForm");
+
+        // 2. Aggiungi l'event listener per il submit
+        form.addEventListener("submit", function (event) {
+            // 3. Previene l'invio automatico del form
+            event.preventDefault();
+
+            // 4. Azione da eseguire
+            alert("Modulo inviato (ma preventDefault ha bloccato l’invio)");
+        });
+    </script>
+
+</body>
+
+</html>

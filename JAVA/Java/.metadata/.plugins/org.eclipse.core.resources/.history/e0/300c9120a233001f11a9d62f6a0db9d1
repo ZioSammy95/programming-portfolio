@@ -1,0 +1,17 @@
+package eserciziojava;
+
+public class variabili {
+
+	public static void main(String[] args) {
+    int x ; //dichiarazione
+    x= 45; // assegnazione
+    
+    int y=34; //inizializzazione
+
+   
+    System.out.println("x");
+    
+    
+	}
+
+}

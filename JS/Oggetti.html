@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="it">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Oggetti in JavaScript</title>
+
+
+    <style>
+        input[type="text"] {
+            display: block;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <script>
+
+        const chiave = 'interessi';
+        const persona = {
+            nome: 'Samuele',
+            cognome: 'Virgillito',
+            eta: 30,
+            genere: 'Maschio',
+            interessi: ['Programmazione', 'Musica', 'Sport'],
+            indirizzo: {
+                via: 'Via Roma',
+                numero: 123,
+                citta: 'Palermo',
+                cap: '90100'
+            },
+            saluta: function () {
+                console.log(`Ciao, sono ${persona.nome}`);
+            }
+        };
+
+        persona.nome = 'Paolo';
+        persona.indirizzo.via = 'Via Milano';
+        persona.indirizzo.numero = 456;
+        persona.interessi[2] = 'Videogiochi ';
+
+        console.log(persona.nome);
+        console.log(persona.indirizzo.via);
+        console.log(persona.indirizzo.numero);
+        console.log(persona.interessi[2]);
+
+        console.log(persona[chiave][0]);
+        console.log(persona[chiave][1]);
+        console.log(persona[chiave][2]);
+
+
+    </script>
+</body>
+
+</html>

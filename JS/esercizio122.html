@@ -1,0 +1,10 @@
+<input type="text" id="campo" placeholder="Scrivi qualcosa">
+
+<script>
+    const input = document.getElementById("campo");
+
+    input.addEventListener("focus", function () {
+        input.style.backgroundColor = "lightyellow";
+        console.log("Il campo ha ricevuto il focus");
+    });
+</script>

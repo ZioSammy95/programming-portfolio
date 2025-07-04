@@ -1,0 +1,14 @@
+C:\Users\Sammy\OneDrive\Desktop\C#\WhileDoWhile\WhileDoWhile\bin\Debug\net8.0\WhileDoWhile.exe
+C:\Users\Sammy\OneDrive\Desktop\C#\WhileDoWhile\WhileDoWhile\bin\Debug\net8.0\WhileDoWhile.deps.json
+C:\Users\Sammy\OneDrive\Desktop\C#\WhileDoWhile\WhileDoWhile\bin\Debug\net8.0\WhileDoWhile.runtimeconfig.json
+C:\Users\Sammy\OneDrive\Desktop\C#\WhileDoWhile\WhileDoWhile\bin\Debug\net8.0\WhileDoWhile.dll
+C:\Users\Sammy\OneDrive\Desktop\C#\WhileDoWhile\WhileDoWhile\bin\Debug\net8.0\WhileDoWhile.pdb
+C:\Users\Sammy\OneDrive\Desktop\C#\WhileDoWhile\WhileDoWhile\obj\Debug\net8.0\WhileDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sammy\OneDrive\Desktop\C#\WhileDoWhile\WhileDoWhile\obj\Debug\net8.0\WhileDoWhile.AssemblyInfoInputs.cache
+C:\Users\Sammy\OneDrive\Desktop\C#\WhileDoWhile\WhileDoWhile\obj\Debug\net8.0\WhileDoWhile.AssemblyInfo.cs
+C:\Users\Sammy\OneDrive\Desktop\C#\WhileDoWhile\WhileDoWhile\obj\Debug\net8.0\WhileDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Sammy\OneDrive\Desktop\C#\WhileDoWhile\WhileDoWhile\obj\Debug\net8.0\WhileDoWhile.dll
+C:\Users\Sammy\OneDrive\Desktop\C#\WhileDoWhile\WhileDoWhile\obj\Debug\net8.0\refint\WhileDoWhile.dll
+C:\Users\Sammy\OneDrive\Desktop\C#\WhileDoWhile\WhileDoWhile\obj\Debug\net8.0\WhileDoWhile.pdb
+C:\Users\Sammy\OneDrive\Desktop\C#\WhileDoWhile\WhileDoWhile\obj\Debug\net8.0\WhileDoWhile.genruntimeconfig.cache
+C:\Users\Sammy\OneDrive\Desktop\C#\WhileDoWhile\WhileDoWhile\obj\Debug\net8.0\ref\WhileDoWhile.dll

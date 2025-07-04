@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewpoint" content="width=device-width,initial-scale=1.0">
+    <title>Media query in CSS</title>
+
+    <style>
+        body {
+            background-color: rgb(224, 224, 224);
+        }
+
+        p {
+            background-color: white;
+            padding: 20px;
+            width: auto;
+        }
+
+        @media  (max-width : 1200px), not (orientation: landscape){
+            body{
+                background-color: blue;
+            }
+        }
+
+        @media (orientation: landscape) {
+            body{
+                background-color: rebeccapurple;
+            }
+        }
+       
+        
+    </style>
+</head>
+
+<body>
+
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae repudiandae laborum a minima, consequuntur ipsa
+        perspiciatis magnam deleniti totam sequi, omnis obcaecati. Maiores, accusantium. Eaque ipsam necessitatibus
+        dicta earum et?
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt doloribus, magni magnam in velit consectetur
+        aperiam voluptatem dignissimos delectus earum quibusdam quam quaerat, exercitationem incidunt illo, assumenda
+        vero molestias minima.
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque facere voluptatibus minima minus deleniti.
+        Quisquam illo, error quibusdam ipsam ab totam? Soluta totam veritatis, quos a quibusdam aliquid dolorem magnam.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam architecto iste nihil ipsum. Quo sed alias
+        molestiae ea harum magni in et, quis, iusto nemo quas voluptates, beatae quasi qui.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam aperiam exercitationem modi at sequi tenetur
+        perspiciatis nihil praesentium nisi saepe! Dolorum laboriosam dolore quae quasi quis sit deserunt, sint
+        delectus.
+    </p>
+
+
+</body>
+
+</html>

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio206\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AE8F61-5F53-4055-B3B9-44C1250295C0}|Esercizio206\\Esercizio206.csproj|c:\\users\\sammy\\onedrive\\desktop\\c#\\esercizio206\\esercizio206\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8AE8F61-5F53-4055-B3B9-44C1250295C0}|Esercizio206\\Esercizio206.csproj|solutionrelative:esercizio206\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AE8F61-5F53-4055-B3B9-44C1250295C0}|Esercizio206\\Esercizio206.csproj|c:\\users\\sammy\\onedrive\\desktop\\c#\\esercizio206\\esercizio206\\rettangolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8AE8F61-5F53-4055-B3B9-44C1250295C0}|Esercizio206\\Esercizio206.csproj|solutionrelative:esercizio206\\rettangolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AE8F61-5F53-4055-B3B9-44C1250295C0}|Esercizio206\\Esercizio206.csproj|c:\\users\\sammy\\onedrive\\desktop\\c#\\esercizio206\\esercizio206\\cerchio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8AE8F61-5F53-4055-B3B9-44C1250295C0}|Esercizio206\\Esercizio206.csproj|solutionrelative:esercizio206\\cerchio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AE8F61-5F53-4055-B3B9-44C1250295C0}|Esercizio206\\Esercizio206.csproj|c:\\users\\sammy\\onedrive\\desktop\\c#\\esercizio206\\esercizio206\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8AE8F61-5F53-4055-B3B9-44C1250295C0}|Esercizio206\\Esercizio206.csproj|solutionrelative:esercizio206\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Figura.cs",
+              "DocumentMoniker": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio206\\Esercizio206\\Figura.cs",
+              "RelativeDocumentMoniker": "Esercizio206\\Figura.cs",
+              "ToolTip": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio206\\Esercizio206\\Figura.cs",
+              "RelativeToolTip": "Esercizio206\\Figura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T15:16:14.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cerchio.cs",
+              "DocumentMoniker": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio206\\Esercizio206\\Cerchio.cs",
+              "RelativeDocumentMoniker": "Esercizio206\\Cerchio.cs",
+              "ToolTip": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio206\\Esercizio206\\Cerchio.cs",
+              "RelativeToolTip": "Esercizio206\\Cerchio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T15:12:35.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rettangolo.cs",
+              "DocumentMoniker": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio206\\Esercizio206\\Rettangolo.cs",
+              "RelativeDocumentMoniker": "Esercizio206\\Rettangolo.cs",
+              "ToolTip": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio206\\Esercizio206\\Rettangolo.cs",
+              "RelativeToolTip": "Esercizio206\\Rettangolo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T15:12:29.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio206\\Esercizio206\\Program.cs",
+              "RelativeDocumentMoniker": "Esercizio206\\Program.cs",
+              "ToolTip": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio206\\Esercizio206\\Program.cs",
+              "RelativeToolTip": "Esercizio206\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T15:09:51.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sammy\\source\\repos\\Esercizio32\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC34CE69-24DF-4ADA-850D-BF75C5986546}|Esercizio32\\Esercizio32.csproj|c:\\users\\sammy\\source\\repos\\esercizio32\\esercizio32\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC34CE69-24DF-4ADA-850D-BF75C5986546}|Esercizio32\\Esercizio32.csproj|solutionrelative:esercizio32\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sammy\\source\\repos\\Esercizio32\\Esercizio32\\Program.cs",
+              "RelativeDocumentMoniker": "Esercizio32\\Program.cs",
+              "ToolTip": "C:\\Users\\Sammy\\source\\repos\\Esercizio32\\Esercizio32\\Program.cs",
+              "RelativeToolTip": "Esercizio32\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:15:30.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

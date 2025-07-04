@@ -1,0 +1,14 @@
+C:\Users\Sammy\source\repos\Esercizio42\Esercizio42\bin\Debug\net8.0\Esercizio42.exe
+C:\Users\Sammy\source\repos\Esercizio42\Esercizio42\bin\Debug\net8.0\Esercizio42.deps.json
+C:\Users\Sammy\source\repos\Esercizio42\Esercizio42\bin\Debug\net8.0\Esercizio42.runtimeconfig.json
+C:\Users\Sammy\source\repos\Esercizio42\Esercizio42\bin\Debug\net8.0\Esercizio42.dll
+C:\Users\Sammy\source\repos\Esercizio42\Esercizio42\bin\Debug\net8.0\Esercizio42.pdb
+C:\Users\Sammy\source\repos\Esercizio42\Esercizio42\obj\Debug\net8.0\Esercizio42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sammy\source\repos\Esercizio42\Esercizio42\obj\Debug\net8.0\Esercizio42.AssemblyInfoInputs.cache
+C:\Users\Sammy\source\repos\Esercizio42\Esercizio42\obj\Debug\net8.0\Esercizio42.AssemblyInfo.cs
+C:\Users\Sammy\source\repos\Esercizio42\Esercizio42\obj\Debug\net8.0\Esercizio42.csproj.CoreCompileInputs.cache
+C:\Users\Sammy\source\repos\Esercizio42\Esercizio42\obj\Debug\net8.0\Esercizio42.dll
+C:\Users\Sammy\source\repos\Esercizio42\Esercizio42\obj\Debug\net8.0\refint\Esercizio42.dll
+C:\Users\Sammy\source\repos\Esercizio42\Esercizio42\obj\Debug\net8.0\Esercizio42.pdb
+C:\Users\Sammy\source\repos\Esercizio42\Esercizio42\obj\Debug\net8.0\Esercizio42.genruntimeconfig.cache
+C:\Users\Sammy\source\repos\Esercizio42\Esercizio42\obj\Debug\net8.0\ref\Esercizio42.dll

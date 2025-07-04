@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewpoint" content="width=device-width,initial-scale=1.0">
+    <title>Immagini media e form in CSS</title>
+
+    <style>
+        .box {
+            width: 200px;
+            height: 200px;
+            border: solid 5px salmon;
+        }
+
+        img {
+            height: 100%;
+            width: 100%;
+        }
+
+        .cover {
+            object-fit: cover;
+        }
+
+        .contain {
+            object-fit: contain;
+        }
+    </style>
+
+</head>
+
+
+<body>
+
+    <div class="box"><img src="images/amsterdam1.jpg" alt="amsterdam1"></img></div>
+
+    <div class="wrapper">
+        <div class="box"><img src="images/amsterdam1.jpg" alt="amsterdam1"></img></div>
+        <div class="box"><img src="images/amsterdam1.jpg" alt="amsterdam1"></img></div>
+    </div>
+
+</body>
+
+</html>

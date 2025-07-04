@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Esercizio 149</title>
+    <style>
+        input[type="text"] {
+            display: block;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <script>
+        class Animale {
+            verso() {
+                console.log("Sconosciuto");
+            }
+        }
+
+        class Gatto extends Animale {
+            verso() {
+                console.log("Miao!");
+            }
+        }
+
+        const gatto = new Gatto();
+        gatto.verso();
+    </script>
+</body>
+
+</html>

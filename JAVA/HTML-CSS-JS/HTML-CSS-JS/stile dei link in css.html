@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewpoint" content="width=device-width,initial-scale=1.0">
+    <title>Stile dei Link in CSS</title>
+
+    <style>
+        ul {
+            list-style-type: none;
+        }
+
+        li {
+            display: inline;
+            background-color: blue;
+        }
+
+        a {
+            text-decoration: none;
+            color: white;
+            background-color: black;
+            padding: 10px;
+
+        }
+
+        a:link {}
+
+        a:visited {}
+
+        a:focus {
+            outline: none;
+            background-color: rgb(75, 75, 75);
+        }
+
+        a:hover {
+            background-color: rgb(75, 75, 75);
+        }
+
+        a:active {
+            background-color: gray;
+        }
+    </style>
+</head>
+
+<body>
+    <ul>
+        <li><a href="#"></a>Home</li>
+        <li><a href="#"></a>About</li>
+        <li><a href="#"></a>Contatti</li>
+        <li><a href="#"></a>Qualcosa</li>
+
+    </ul>
+
+</body>
+
+</html>

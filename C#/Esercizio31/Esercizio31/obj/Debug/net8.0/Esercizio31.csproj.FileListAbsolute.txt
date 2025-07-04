@@ -1,0 +1,14 @@
+C:\Users\Sammy\source\repos\Esercizio31\Esercizio31\bin\Debug\net8.0\Esercizio31.exe
+C:\Users\Sammy\source\repos\Esercizio31\Esercizio31\bin\Debug\net8.0\Esercizio31.deps.json
+C:\Users\Sammy\source\repos\Esercizio31\Esercizio31\bin\Debug\net8.0\Esercizio31.runtimeconfig.json
+C:\Users\Sammy\source\repos\Esercizio31\Esercizio31\bin\Debug\net8.0\Esercizio31.dll
+C:\Users\Sammy\source\repos\Esercizio31\Esercizio31\bin\Debug\net8.0\Esercizio31.pdb
+C:\Users\Sammy\source\repos\Esercizio31\Esercizio31\obj\Debug\net8.0\Esercizio31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sammy\source\repos\Esercizio31\Esercizio31\obj\Debug\net8.0\Esercizio31.AssemblyInfoInputs.cache
+C:\Users\Sammy\source\repos\Esercizio31\Esercizio31\obj\Debug\net8.0\Esercizio31.AssemblyInfo.cs
+C:\Users\Sammy\source\repos\Esercizio31\Esercizio31\obj\Debug\net8.0\Esercizio31.csproj.CoreCompileInputs.cache
+C:\Users\Sammy\source\repos\Esercizio31\Esercizio31\obj\Debug\net8.0\Esercizio31.dll
+C:\Users\Sammy\source\repos\Esercizio31\Esercizio31\obj\Debug\net8.0\refint\Esercizio31.dll
+C:\Users\Sammy\source\repos\Esercizio31\Esercizio31\obj\Debug\net8.0\Esercizio31.pdb
+C:\Users\Sammy\source\repos\Esercizio31\Esercizio31\obj\Debug\net8.0\Esercizio31.genruntimeconfig.cache
+C:\Users\Sammy\source\repos\Esercizio31\Esercizio31\obj\Debug\net8.0\ref\Esercizio31.dll

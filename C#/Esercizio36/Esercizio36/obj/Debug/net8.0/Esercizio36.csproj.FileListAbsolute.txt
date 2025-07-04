@@ -1,0 +1,14 @@
+C:\Users\Sammy\source\repos\Esercizio36\Esercizio36\bin\Debug\net8.0\Esercizio36.exe
+C:\Users\Sammy\source\repos\Esercizio36\Esercizio36\bin\Debug\net8.0\Esercizio36.deps.json
+C:\Users\Sammy\source\repos\Esercizio36\Esercizio36\bin\Debug\net8.0\Esercizio36.runtimeconfig.json
+C:\Users\Sammy\source\repos\Esercizio36\Esercizio36\bin\Debug\net8.0\Esercizio36.dll
+C:\Users\Sammy\source\repos\Esercizio36\Esercizio36\bin\Debug\net8.0\Esercizio36.pdb
+C:\Users\Sammy\source\repos\Esercizio36\Esercizio36\obj\Debug\net8.0\Esercizio36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sammy\source\repos\Esercizio36\Esercizio36\obj\Debug\net8.0\Esercizio36.AssemblyInfoInputs.cache
+C:\Users\Sammy\source\repos\Esercizio36\Esercizio36\obj\Debug\net8.0\Esercizio36.AssemblyInfo.cs
+C:\Users\Sammy\source\repos\Esercizio36\Esercizio36\obj\Debug\net8.0\Esercizio36.csproj.CoreCompileInputs.cache
+C:\Users\Sammy\source\repos\Esercizio36\Esercizio36\obj\Debug\net8.0\Esercizio36.dll
+C:\Users\Sammy\source\repos\Esercizio36\Esercizio36\obj\Debug\net8.0\refint\Esercizio36.dll
+C:\Users\Sammy\source\repos\Esercizio36\Esercizio36\obj\Debug\net8.0\Esercizio36.pdb
+C:\Users\Sammy\source\repos\Esercizio36\Esercizio36\obj\Debug\net8.0\Esercizio36.genruntimeconfig.cache
+C:\Users\Sammy\source\repos\Esercizio36\Esercizio36\obj\Debug\net8.0\ref\Esercizio36.dll

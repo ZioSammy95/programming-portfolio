@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio54\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC2B865-8453-464A-B36E-F0169E8A493A}|Esercizio54\\Esercizio54.csproj|c:\\users\\sammy\\onedrive\\desktop\\c#\\esercizio54\\esercizio54\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC2B865-8453-464A-B36E-F0169E8A493A}|Esercizio54\\Esercizio54.csproj|solutionrelative:esercizio54\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio54\\Esercizio54\\Program.cs",
+              "RelativeDocumentMoniker": "Esercizio54\\Program.cs",
+              "ToolTip": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio54\\Esercizio54\\Program.cs",
+              "RelativeToolTip": "Esercizio54\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T15:13:01.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

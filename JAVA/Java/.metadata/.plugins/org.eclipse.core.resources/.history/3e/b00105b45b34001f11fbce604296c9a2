@@ -1,0 +1,12 @@
+package eserciziojava;
+
+public class Tipididati {
+
+	public static void main(String[] args) {
+    boolean ilBoolean = true;
+    byte ilByte = 127;
+    short loShort = -32768;
+    
+	}
+
+}

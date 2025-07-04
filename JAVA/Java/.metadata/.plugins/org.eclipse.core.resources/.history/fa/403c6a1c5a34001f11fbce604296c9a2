@@ -1,0 +1,9 @@
+package eserciziojava;
+
+public class Tipididati {
+
+	public static void main(String[] args) {
+    boolean luce = true;
+	}
+
+}

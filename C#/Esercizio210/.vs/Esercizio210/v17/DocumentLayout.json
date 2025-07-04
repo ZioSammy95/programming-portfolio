@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio210\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5253C763-91B3-48BC-A621-2396898EDBD9}|Esercizio210\\Esercizio210.csproj|c:\\users\\sammy\\onedrive\\desktop\\c#\\esercizio210\\esercizio210\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5253C763-91B3-48BC-A621-2396898EDBD9}|Esercizio210\\Esercizio210.csproj|solutionrelative:esercizio210\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5253C763-91B3-48BC-A621-2396898EDBD9}|Esercizio210\\Esercizio210.csproj|c:\\users\\sammy\\onedrive\\desktop\\c#\\esercizio210\\esercizio210\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5253C763-91B3-48BC-A621-2396898EDBD9}|Esercizio210\\Esercizio210.csproj|solutionrelative:esercizio210\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio210\\Esercizio210\\Persona.cs",
+              "RelativeDocumentMoniker": "Esercizio210\\Persona.cs",
+              "ToolTip": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio210\\Esercizio210\\Persona.cs",
+              "RelativeToolTip": "Esercizio210\\Persona.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:06:47.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio210\\Esercizio210\\Program.cs",
+              "RelativeDocumentMoniker": "Esercizio210\\Program.cs",
+              "ToolTip": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio210\\Esercizio210\\Program.cs",
+              "RelativeToolTip": "Esercizio210\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:05:41.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

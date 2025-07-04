@@ -1,0 +1,13 @@
+<div id="box"
+    style="width:200px; height:100px; background-color:lightcoral; text-align:center; line-height:100px; cursor:pointer;">
+    Doppio click qui
+</div>
+
+<script>
+    const box = document.getElementById("box");
+
+    box.addEventListener("dblclick", function () {
+        alert("Hai fatto doppio click sul div!");
+        box.style.backgroundColor = "lightgreen";
+    });
+</script>

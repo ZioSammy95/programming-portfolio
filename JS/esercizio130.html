@@ -1,0 +1,9 @@
+<p id="info">Ridimensiona la finestra per vedere la larghezza aggiornata.</p>
+
+<script>
+    const info = document.getElementById("info");
+
+    window.addEventListener("resize", function () {
+        info.textContent = `Larghezza finestra: ${window.innerWidth}px`;
+    });
+</script>

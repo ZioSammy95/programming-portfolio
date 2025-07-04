@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Getter\u0026Setters\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E37706F2-96FE-4752-BB3D-DF6E8084BA35}|Getter\u0026Setters\\Getter\u0026Setters.csproj|c:\\users\\sammy\\onedrive\\desktop\\c#\\getter\u0026setters\\getter\u0026setters\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37706F2-96FE-4752-BB3D-DF6E8084BA35}|Getter\u0026Setters\\Getter\u0026Setters.csproj|solutionrelative:getter\u0026setters\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37706F2-96FE-4752-BB3D-DF6E8084BA35}|Getter\u0026Setters\\Getter\u0026Setters.csproj|c:\\users\\sammy\\onedrive\\desktop\\c#\\getter\u0026setters\\getter\u0026setters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37706F2-96FE-4752-BB3D-DF6E8084BA35}|Getter\u0026Setters\\Getter\u0026Setters.csproj|solutionrelative:getter\u0026setters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Getter\u0026Setters\\Getter\u0026Setters\\Persona.cs",
+              "RelativeDocumentMoniker": "Getter\u0026Setters\\Persona.cs",
+              "ToolTip": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Getter\u0026Setters\\Getter\u0026Setters\\Persona.cs",
+              "RelativeToolTip": "Getter\u0026Setters\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T07:25:14.77Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Getter\u0026Setters\\Getter\u0026Setters\\Program.cs",
+              "RelativeDocumentMoniker": "Getter\u0026Setters\\Program.cs",
+              "ToolTip": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Getter\u0026Setters\\Getter\u0026Setters\\Program.cs",
+              "RelativeToolTip": "Getter\u0026Setters\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T07:24:06.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

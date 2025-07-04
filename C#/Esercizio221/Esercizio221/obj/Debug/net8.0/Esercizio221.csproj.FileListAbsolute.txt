@@ -1,0 +1,14 @@
+C:\Users\Sammy\OneDrive\Desktop\C#\Esercizio221\Esercizio221\bin\Debug\net8.0\Esercizio221.exe
+C:\Users\Sammy\OneDrive\Desktop\C#\Esercizio221\Esercizio221\bin\Debug\net8.0\Esercizio221.deps.json
+C:\Users\Sammy\OneDrive\Desktop\C#\Esercizio221\Esercizio221\bin\Debug\net8.0\Esercizio221.runtimeconfig.json
+C:\Users\Sammy\OneDrive\Desktop\C#\Esercizio221\Esercizio221\bin\Debug\net8.0\Esercizio221.dll
+C:\Users\Sammy\OneDrive\Desktop\C#\Esercizio221\Esercizio221\bin\Debug\net8.0\Esercizio221.pdb
+C:\Users\Sammy\OneDrive\Desktop\C#\Esercizio221\Esercizio221\obj\Debug\net8.0\Esercizio221.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sammy\OneDrive\Desktop\C#\Esercizio221\Esercizio221\obj\Debug\net8.0\Esercizio221.AssemblyInfoInputs.cache
+C:\Users\Sammy\OneDrive\Desktop\C#\Esercizio221\Esercizio221\obj\Debug\net8.0\Esercizio221.AssemblyInfo.cs
+C:\Users\Sammy\OneDrive\Desktop\C#\Esercizio221\Esercizio221\obj\Debug\net8.0\Esercizio221.csproj.CoreCompileInputs.cache
+C:\Users\Sammy\OneDrive\Desktop\C#\Esercizio221\Esercizio221\obj\Debug\net8.0\Esercizio221.dll
+C:\Users\Sammy\OneDrive\Desktop\C#\Esercizio221\Esercizio221\obj\Debug\net8.0\refint\Esercizio221.dll
+C:\Users\Sammy\OneDrive\Desktop\C#\Esercizio221\Esercizio221\obj\Debug\net8.0\Esercizio221.pdb
+C:\Users\Sammy\OneDrive\Desktop\C#\Esercizio221\Esercizio221\obj\Debug\net8.0\Esercizio221.genruntimeconfig.cache
+C:\Users\Sammy\OneDrive\Desktop\C#\Esercizio221\Esercizio221\obj\Debug\net8.0\ref\Esercizio221.dll

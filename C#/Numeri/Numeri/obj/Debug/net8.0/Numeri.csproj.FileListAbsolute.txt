@@ -1,0 +1,14 @@
+C:\Users\Sammy\source\repos\Numeri\Numeri\bin\Debug\net8.0\Numeri.exe
+C:\Users\Sammy\source\repos\Numeri\Numeri\bin\Debug\net8.0\Numeri.deps.json
+C:\Users\Sammy\source\repos\Numeri\Numeri\bin\Debug\net8.0\Numeri.runtimeconfig.json
+C:\Users\Sammy\source\repos\Numeri\Numeri\bin\Debug\net8.0\Numeri.dll
+C:\Users\Sammy\source\repos\Numeri\Numeri\bin\Debug\net8.0\Numeri.pdb
+C:\Users\Sammy\source\repos\Numeri\Numeri\obj\Debug\net8.0\Numeri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sammy\source\repos\Numeri\Numeri\obj\Debug\net8.0\Numeri.AssemblyInfoInputs.cache
+C:\Users\Sammy\source\repos\Numeri\Numeri\obj\Debug\net8.0\Numeri.AssemblyInfo.cs
+C:\Users\Sammy\source\repos\Numeri\Numeri\obj\Debug\net8.0\Numeri.csproj.CoreCompileInputs.cache
+C:\Users\Sammy\source\repos\Numeri\Numeri\obj\Debug\net8.0\Numeri.dll
+C:\Users\Sammy\source\repos\Numeri\Numeri\obj\Debug\net8.0\refint\Numeri.dll
+C:\Users\Sammy\source\repos\Numeri\Numeri\obj\Debug\net8.0\Numeri.pdb
+C:\Users\Sammy\source\repos\Numeri\Numeri\obj\Debug\net8.0\Numeri.genruntimeconfig.cache
+C:\Users\Sammy\source\repos\Numeri\Numeri\obj\Debug\net8.0\ref\Numeri.dll
