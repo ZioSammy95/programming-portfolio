@@ -1,2 +1,33 @@
-# programming-portfolio
-A complete programming portfolio including exercises, mini-projects, and coursework in C, C++, C#, Java, HTML, CSS, and JavaScript. All work was done during my self-study journey in 2024–2025 to build strong foundations in software development.
+# 👋 Hi, I'm Samuele Virgillito
+
+I'm a self-taught developer from Italy passionate about software development and eager to grow professionally.
+
+This programming portfolio contains projects and exercises I've built while learning and practicing these languages and technologies:
+
+- C / C++ / C#
+- Java
+- HTML / CSS / JavaScript
+
+I'm planning to move to The Hague, Netherlands, in August 2025 to pursue my first job in the tech industry.  
+I'm especially interested in backend development and open to any entry-level opportunities where I can contribute and learn.
+
+Thanks for visiting!
+
+---
+
+## 🚀 Featured Projects
+
+- **Snake Game (C++)** – A console-based Snake game demonstrating arrays and control flow.  
+- **To-Do List (Java)** – A simple GUI application built with Swing to manage daily tasks.  
+- **Portfolio Website (HTML/CSS/JS)** – A responsive personal website showcasing my work and skills.
+
+*(Note: Projects are work in progress, but I am constantly improving them.)*
+
+---
+
+## 📫 Contact
+
+- 📧 Email: sammy.v95@hotmail.it
+- 💼 LinkedIn: (https://www.linkedin.com/in/samuele-virgillito-028832194/)
+
+
