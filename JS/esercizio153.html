@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Esercizio 153</title>
+</head>
+
+<body>
+
+    <script>
+        // Esempio di utilizzo di JSON in JavaScript
+
+        // Creazione di un oggetto JavaScript
+        const persona = {
+            nome: "Samuele",
+            età: 30,
+            interessi: ["programmazione", "viaggi"]
+        };
+
+        // Conversione dell'oggetto in una stringa JSON
+        // Duplicate declaration removed
+
+        // Conversione della stringa JSON di nuovo in un oggetto JavaScript
+        const jsonObject = JSON.parse(jsonString);
+        console.log(jsonObject);
+
+        const jsonString = JSON.stringify(persona);
+        console.log(jsonString);

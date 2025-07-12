@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Esercizio 155</title>
+</head>
+
+<body>
+
+    <script>
+        const jsonString = '{"nome":"Samuele","età":30,"interessi":["programmazione","viaggi"]}';
+        const persona = JSON.parse(jsonString);
+
+        // Accesso ai valori
+        console.log(persona.nome);           // "Samuele"
+        console.log(persona["età"]);         // 30
+        console.log(persona.interessi[0]);   // "programmazione"
+        console.log(persona.interessi[1]);   // "viaggi"
+
+    </script>
+
+</body>
+
+</html>

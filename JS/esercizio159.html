@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Esercizio 159</title>
+</head>
+
+<body>
+
+    <script>
+        const jsonString = `[
+  {"nome": "Samuele", "età": 30},
+  {"nome": "Luca", "età": 25},
+  {"nome": "Maria", "età": 28}
+]`;
+
+        // 1. Converto la stringa JSON in array di oggetti JS
+        const persone = JSON.parse(jsonString);
+
+        // 2. Filtro le persone con età maggiore di 27
+        const filtrate = persone.filter(persona => persona.età > 27);
+
+        console.log(filtrate);
+
+
+    </script>
+
+</body>
+
+</html>

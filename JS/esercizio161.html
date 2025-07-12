@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Esercizio 161</title>
+</head>
+
+<body>
+
+    <script>
+        const obj = {
+            nome: "Samuele",
+            età: 30,
+            interessi: ["programmazione", "viaggi"]
+        };
+
+        // Converti in stringa JSON
+        const jsonString = JSON.stringify(obj, null, 2);
+
+        // Crea un Blob dal testo JSON
+        const blob = new Blob([jsonString], { type: "application/json" });
+
+        // Crea un URL per il Blob
+        const url = URL.createObjectURL(blob);
+
+        // Crea un elemento <a> invisibile
+        const a = document.createElement("a");
+        a.href = url;
+        a.download = "dati.json";
+
+        // Avvia il download
+        a.click();
+
+        // Pulisci l’URL creato
+        URL.revokeObjectURL(url);
+
+    </script>
+
+</body>
+
+</html>
