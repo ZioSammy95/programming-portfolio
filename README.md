@@ -1,4 +1,10 @@
 ## 👋 Hi, I'm Samuele Virgillito
+## 📫 Contact
+
+📧 Email: [sammy.v95@hotmail.it]  
+💼 LinkedIn: [https://www.linkedin.com/in/samuele-virgillito-028832194/)  
+🌍 Based in: The Hague, Netherlands (from August 2025)
+
 
 I'm a self-taught developer from Italy, moving to the Netherlands in August 2025.
 
