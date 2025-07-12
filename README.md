@@ -6,13 +6,16 @@
 🌍 Based in: The Hague, Netherlands (from August 2025)
 
 
-I'm a self-taught developer from Italy, moving to the Netherlands in August 2025.
+I'm a self-taught developer from Italy with a strong interest in programming and software development.
 
-This portfolio contains my programming exercises and small projects made while learning languages like:
+This portfolio contains exercises and small projects I've built while studying the following languages and technologies:
+
 - C / C++ / C#
 - Java
 - HTML / CSS / JavaScript
 
-I'm actively looking for an entry-level position in The Hague area. I'm passionate about backend development and games.
+I'm planning to move to the Netherlands (The Hague) in August 2025 to look for my first job in the tech industry.  
+I'm especially interested in backend development and open to any entry-level opportunity where I can grow and contribute.
 
-📬 Feel free to contact me or check out my [LinkedIn](#)!
+Thanks for visiting!
+
