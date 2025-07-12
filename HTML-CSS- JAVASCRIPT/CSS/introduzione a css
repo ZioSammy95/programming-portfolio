@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewpoint" content="width=device-width,initial-scale=1.0">
+    <title>Cominciare con CSS</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <style>
+        header {
+            background-color: aqua;
+        }
+    </style>
+</head>
+
+<body>
+
+    <ul>
+        <li><a href="Home"></a></li>
+        <li><a href="About"></a></li>
+        <li><a href="Contatti"></a></li>
+
+    </ul>
+    <h1>Introduzione a CSS</h1>
+    <h3>Titolo paragrafo</h3>
+    <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem commodi odit tenetur necessitatibus quam quas
+        voluptates consequatur sit ab aliquam cupiditate saepe aspernatur aliquid ut repellat dolores, quis modi
+        voluptate?
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> Dolorum nulla, unde dicta quibusdam amet voluptate
+        fuga placeat eos vero similique rem veritatis, quasi eligendi explicabo inventore exercitationem blanditiis.
+        Animi, aliquid?
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex adipisci officiis autem, eligendi itaque beatae
+        modi eum quod animi optio tempore? Voluptatum officia corrupti quia dolorem deserunt aliquam obcaecati aliquid.
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit.<span> Tenetur corrupti ut eum repudiandae veniam
+            aliquam. </span> ducimus exercitationem ratione? Cum ullam voluptatibus minus explicabo atque quae minima
+        deleniti modi mollitia dolorum?
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem eaque asperiores, neque magni ullam voluptatum
+        atque odio eius praesentium qui consequuntur. Velit rerum eveniet dignissimos, eos quo dolorum eius qui!</p>
+
+    <hr>
+    <h3>Titolo paragrafo</h3>
+    <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit sit ad dolores ducimus, vel hic quibusdam
+        veritatis excepturi labore nisi ipsa vitae sequi explicabo! Dicta facilis perferendis enim nihil culpa!
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Non minima voluptas, ea nam, natus porro at accusantium
+        fuga, cumque animi pariatur delectus. Sed soluta autem quasi rerum laudantium, quod nisi!
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, nulla a est tempora modi hic id, ab
+        quaerat autem culpa tenetur. Praesentium nulla, iusto voluptates dolor quasi modi. Vero, fugiat?
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Numquam ea, eos quo quis, beatae ab non molestias
+        rerum rem facilis dolorum sapiente esse provident! Blanditiis veritatis aut pariatur fugit similique?
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempora, natus nobis! Adipisci cumque quod possimus
+        accusantium architecto perspiciatis delectus, odio iusto labore voluptatibus veniam quaerat commodi mollitia
+        illum. Voluptates, excepturi!<br><br>
+
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet pariatur, minus esse praesentium autem id odio
+        deleniti, dolorum, odit nobis rem sit. Eos ipsum architecto error unde nobis quasi harum.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, voluptates itaque, animi ab laboriosam iure
+        maiores aut at molestias voluptas possimus ipsum nihil! Rem omnis voluptas earum molestias itaque odio.
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo facilis ducimus reiciendis<span> quia praesentium
+            placeat laudantium accusamus? Iusto distinctio reiciendis ab adipisci tempora perspiciatis dicta culpa
+            repellendus,</span> illo quibusdam? Dolorum.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam nisi necessitatibus labore similique voluptas vel
+        modi, at vero quia, fugiat provident nostrum quibusdam rem, error molestiae ab consequatur placeat dolorem?
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam nulla necessitatibus odio? Eum itaque
+        recusandae magnam saepe labore debitis cumque, voluptatum amet suscipit, sint voluptas nihil. Nesciunt
+        repudiandae alias amet?
+
+    </p>
+
+
+    </p>
+
+
+
+
+
+
+
+
+
+</body>

@@ -1,0 +1,15 @@
+<label>
+    <input type="checkbox" id="checkbox"> Accetto i termini
+</label>
+
+<script>
+    const checkbox = document.getElementById("checkbox");
+
+    checkbox.addEventListener("change", function () {
+        if (checkbox.checked) {
+            console.log("Checkbox selezionata");
+        } else {
+            console.log("Checkbox deselezionata");
+        }
+    });
+</script>

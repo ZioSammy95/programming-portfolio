@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\OperatoriComparazioneLogici\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47812EF7-746B-4102-A766-078888EA8921}|OperatoriComparazioneLogici\\OperatoriComparazioneLogici.csproj|c:\\users\\sammy\\onedrive\\desktop\\c#\\operatoricomparazionelogici\\operatoricomparazionelogici\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47812EF7-746B-4102-A766-078888EA8921}|OperatoriComparazioneLogici\\OperatoriComparazioneLogici.csproj|solutionrelative:operatoricomparazionelogici\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\OperatoriComparazioneLogici\\OperatoriComparazioneLogici\\Program.cs",
+              "RelativeDocumentMoniker": "OperatoriComparazioneLogici\\Program.cs",
+              "ToolTip": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\OperatoriComparazioneLogici\\OperatoriComparazioneLogici\\Program.cs",
+              "RelativeToolTip": "OperatoriComparazioneLogici\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:19:20.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

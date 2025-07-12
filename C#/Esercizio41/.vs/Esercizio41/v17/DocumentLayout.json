@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sammy\\source\\repos\\Esercizio41\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB219B86-B8F7-4A14-A4E5-7A92F6CA6DCC}|Esercizio41\\Esercizio41.csproj|c:\\users\\sammy\\source\\repos\\esercizio41\\esercizio41\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB219B86-B8F7-4A14-A4E5-7A92F6CA6DCC}|Esercizio41\\Esercizio41.csproj|solutionrelative:esercizio41\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sammy\\source\\repos\\Esercizio41\\Esercizio41\\Program.cs",
+              "RelativeDocumentMoniker": "Esercizio41\\Program.cs",
+              "ToolTip": "C:\\Users\\Sammy\\source\\repos\\Esercizio41\\Esercizio41\\Program.cs",
+              "RelativeToolTip": "Esercizio41\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:49:19.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Sammy\OneDrive\Desktop\C#\Interfacce\Interfacce\obj\Debug\net8.0\Interfacce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sammy\OneDrive\Desktop\C#\Interfacce\Interfacce\obj\Debug\net8.0\Interfacce.AssemblyInfoInputs.cache
+C:\Users\Sammy\OneDrive\Desktop\C#\Interfacce\Interfacce\obj\Debug\net8.0\Interfacce.AssemblyInfo.cs
+C:\Users\Sammy\OneDrive\Desktop\C#\Interfacce\Interfacce\obj\Debug\net8.0\Interfacce.csproj.CoreCompileInputs.cache
+C:\Users\Sammy\OneDrive\Desktop\C#\Interfacce\Interfacce\bin\Debug\net8.0\Interfacce.exe
+C:\Users\Sammy\OneDrive\Desktop\C#\Interfacce\Interfacce\bin\Debug\net8.0\Interfacce.deps.json
+C:\Users\Sammy\OneDrive\Desktop\C#\Interfacce\Interfacce\bin\Debug\net8.0\Interfacce.runtimeconfig.json
+C:\Users\Sammy\OneDrive\Desktop\C#\Interfacce\Interfacce\bin\Debug\net8.0\Interfacce.dll
+C:\Users\Sammy\OneDrive\Desktop\C#\Interfacce\Interfacce\bin\Debug\net8.0\Interfacce.pdb
+C:\Users\Sammy\OneDrive\Desktop\C#\Interfacce\Interfacce\obj\Debug\net8.0\Interfacce.dll
+C:\Users\Sammy\OneDrive\Desktop\C#\Interfacce\Interfacce\obj\Debug\net8.0\refint\Interfacce.dll
+C:\Users\Sammy\OneDrive\Desktop\C#\Interfacce\Interfacce\obj\Debug\net8.0\Interfacce.pdb
+C:\Users\Sammy\OneDrive\Desktop\C#\Interfacce\Interfacce\obj\Debug\net8.0\Interfacce.genruntimeconfig.cache
+C:\Users\Sammy\OneDrive\Desktop\C#\Interfacce\Interfacce\obj\Debug\net8.0\ref\Interfacce.dll

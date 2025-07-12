@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Esercizio 148</title>
+    <style>
+        input[type="text"] {
+            display: block;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <script>
+        class Veicolo {
+            accelera() {
+                console.log("Veicolo in accelerazione...");
+            }
+        }
+
+        class Automobile extends Veicolo {
+            accelera() {
+                console.log("Automobile in accelerazione...");
+            }
+
+            suonaClacson() {
+                console.log("Beep Beep!");
+            }
+        }
+
+        const automobile = new Automobile();
+        automobile.accelera();
+        automobile.suonaClacson();
+    </script>
+</body>
+
+</html>

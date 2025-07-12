@@ -1,0 +1,17 @@
+<div id="area" style="width:200px; height:100px; background-color:lightgray;">
+    Passaci sopra col mouse
+</div>
+
+<script>
+    const area = document.getElementById("area");
+
+    area.addEventListener("mouseover", function () {
+        area.style.backgroundColor = "lightblue";
+        console.log("Mouse sopra l'area");
+    });
+
+    area.addEventListener("mouseout", function () {
+        area.style.backgroundColor = "lightgray";
+        console.log("Mouse uscito dall'area");
+    });
+</script>

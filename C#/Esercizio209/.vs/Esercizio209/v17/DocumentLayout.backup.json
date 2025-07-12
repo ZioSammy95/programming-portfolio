@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio209\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C21EA474-928C-49C5-9FCD-AF27CAAE1322}|Esercizio209\\Esercizio209.csproj|c:\\users\\sammy\\onedrive\\desktop\\c#\\esercizio209\\esercizio209\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21EA474-928C-49C5-9FCD-AF27CAAE1322}|Esercizio209\\Esercizio209.csproj|solutionrelative:esercizio209\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21EA474-928C-49C5-9FCD-AF27CAAE1322}|Esercizio209\\Esercizio209.csproj|c:\\users\\sammy\\onedrive\\desktop\\c#\\esercizio209\\esercizio209\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21EA474-928C-49C5-9FCD-AF27CAAE1322}|Esercizio209\\Esercizio209.csproj|solutionrelative:esercizio209\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21EA474-928C-49C5-9FCD-AF27CAAE1322}|Esercizio209\\Esercizio209.csproj|c:\\users\\sammy\\onedrive\\desktop\\c#\\esercizio209\\esercizio209\\cane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21EA474-928C-49C5-9FCD-AF27CAAE1322}|Esercizio209\\Esercizio209.csproj|solutionrelative:esercizio209\\cane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21EA474-928C-49C5-9FCD-AF27CAAE1322}|Esercizio209\\Esercizio209.csproj|c:\\users\\sammy\\onedrive\\desktop\\c#\\esercizio209\\esercizio209\\gatto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21EA474-928C-49C5-9FCD-AF27CAAE1322}|Esercizio209\\Esercizio209.csproj|solutionrelative:esercizio209\\gatto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gatto.cs",
+              "DocumentMoniker": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio209\\Esercizio209\\Gatto.cs",
+              "RelativeDocumentMoniker": "Esercizio209\\Gatto.cs",
+              "ToolTip": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio209\\Esercizio209\\Gatto.cs",
+              "RelativeToolTip": "Esercizio209\\Gatto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:30:05.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cane.cs",
+              "DocumentMoniker": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio209\\Esercizio209\\Cane.cs",
+              "RelativeDocumentMoniker": "Esercizio209\\Cane.cs",
+              "ToolTip": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio209\\Esercizio209\\Cane.cs",
+              "RelativeToolTip": "Esercizio209\\Cane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:30:00.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animale.cs",
+              "DocumentMoniker": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio209\\Esercizio209\\Animale.cs",
+              "RelativeDocumentMoniker": "Esercizio209\\Animale.cs",
+              "ToolTip": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio209\\Esercizio209\\Animale.cs",
+              "RelativeToolTip": "Esercizio209\\Animale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:30:11.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio209\\Esercizio209\\Program.cs",
+              "RelativeDocumentMoniker": "Esercizio209\\Program.cs",
+              "ToolTip": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio209\\Esercizio209\\Program.cs",
+              "RelativeToolTip": "Esercizio209\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:28:56.228Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

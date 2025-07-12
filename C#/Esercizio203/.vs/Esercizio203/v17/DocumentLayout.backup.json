@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio203\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F139F3D0-B494-4A37-B181-9F9B90B944FF}|Esercizio203\\Esercizio203.csproj|c:\\users\\sammy\\onedrive\\desktop\\c#\\esercizio203\\esercizio203\\labrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F139F3D0-B494-4A37-B181-9F9B90B944FF}|Esercizio203\\Esercizio203.csproj|solutionrelative:esercizio203\\labrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F139F3D0-B494-4A37-B181-9F9B90B944FF}|Esercizio203\\Esercizio203.csproj|c:\\users\\sammy\\onedrive\\desktop\\c#\\esercizio203\\esercizio203\\cane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F139F3D0-B494-4A37-B181-9F9B90B944FF}|Esercizio203\\Esercizio203.csproj|solutionrelative:esercizio203\\cane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F139F3D0-B494-4A37-B181-9F9B90B944FF}|Esercizio203\\Esercizio203.csproj|c:\\users\\sammy\\onedrive\\desktop\\c#\\esercizio203\\esercizio203\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F139F3D0-B494-4A37-B181-9F9B90B944FF}|Esercizio203\\Esercizio203.csproj|solutionrelative:esercizio203\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F139F3D0-B494-4A37-B181-9F9B90B944FF}|Esercizio203\\Esercizio203.csproj|c:\\users\\sammy\\onedrive\\desktop\\c#\\esercizio203\\esercizio203\\gatto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F139F3D0-B494-4A37-B181-9F9B90B944FF}|Esercizio203\\Esercizio203.csproj|solutionrelative:esercizio203\\gatto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F139F3D0-B494-4A37-B181-9F9B90B944FF}|Esercizio203\\Esercizio203.csproj|c:\\users\\sammy\\onedrive\\desktop\\c#\\esercizio203\\esercizio203\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F139F3D0-B494-4A37-B181-9F9B90B944FF}|Esercizio203\\Esercizio203.csproj|solutionrelative:esercizio203\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Labrador.cs",
+              "DocumentMoniker": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio203\\Esercizio203\\Labrador.cs",
+              "RelativeDocumentMoniker": "Esercizio203\\Labrador.cs",
+              "ToolTip": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio203\\Esercizio203\\Labrador.cs",
+              "RelativeToolTip": "Esercizio203\\Labrador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:00:19.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gatto.cs",
+              "DocumentMoniker": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio203\\Esercizio203\\Gatto.cs",
+              "RelativeDocumentMoniker": "Esercizio203\\Gatto.cs",
+              "ToolTip": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio203\\Esercizio203\\Gatto.cs",
+              "RelativeToolTip": "Esercizio203\\Gatto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:59:04.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cane.cs",
+              "DocumentMoniker": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio203\\Esercizio203\\Cane.cs",
+              "RelativeDocumentMoniker": "Esercizio203\\Cane.cs",
+              "ToolTip": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio203\\Esercizio203\\Cane.cs",
+              "RelativeToolTip": "Esercizio203\\Cane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:58:05.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animale.cs",
+              "DocumentMoniker": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio203\\Esercizio203\\Animale.cs",
+              "RelativeDocumentMoniker": "Esercizio203\\Animale.cs",
+              "ToolTip": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio203\\Esercizio203\\Animale.cs",
+              "RelativeToolTip": "Esercizio203\\Animale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:57:57.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio203\\Esercizio203\\Program.cs",
+              "RelativeDocumentMoniker": "Esercizio203\\Program.cs",
+              "ToolTip": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio203\\Esercizio203\\Program.cs",
+              "RelativeToolTip": "Esercizio203\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:57:45.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

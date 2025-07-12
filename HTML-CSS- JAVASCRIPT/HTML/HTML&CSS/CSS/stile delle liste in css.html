@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewpoint" content="width=device-width,initial-scale=1.0">
+    <title>Stile delle liste in CSS</title>
+
+    <style>
+        body {
+            width: 50%;
+        }
+
+        ul {
+            list-style-type: square;
+        }
+
+        ol {
+            list-style-type: upper-alpha;
+        }
+
+        ul,
+        ol {
+            list-style-position: inside;
+        }
+
+        ol {
+            list-style-position: inside;
+            list-style-image: url("images/amsterdam1.svg");
+        }
+
+        ul li {
+            padding-left: 2rem;
+            background-image: url("images/amsterdam1.svg");
+            background-position: 0 0;
+            background-size: 1rem 1rem;
+            background-repeat: no-repeat;
+            list-style-type: none;
+
+        }
+    </style>
+</head>
+
+<body>
+
+
+    <ol start="100" reversed>
+        <li value="10">Toast pita, leave to cool, then slice down the edge.</li>
+        <li value="100">
+            Fry the halloumi in a shallow, non-stick pan, until browned on both sides.
+        </li>
+        <li value="1000">Wash and chop the salad.</li>
+        <li value="5000">Fill pita with salad, hummus, and fried halloumi.</li>
+    </ol>
+
+
+
+
+
+</body>
+
+</html>

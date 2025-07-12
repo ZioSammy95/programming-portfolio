@@ -1,0 +1,14 @@
+C:\Users\Sammy\OneDrive\Desktop\C#\Enumeratori\Enumeratori\bin\Debug\net8.0\Enumeratori.exe
+C:\Users\Sammy\OneDrive\Desktop\C#\Enumeratori\Enumeratori\bin\Debug\net8.0\Enumeratori.deps.json
+C:\Users\Sammy\OneDrive\Desktop\C#\Enumeratori\Enumeratori\bin\Debug\net8.0\Enumeratori.runtimeconfig.json
+C:\Users\Sammy\OneDrive\Desktop\C#\Enumeratori\Enumeratori\bin\Debug\net8.0\Enumeratori.dll
+C:\Users\Sammy\OneDrive\Desktop\C#\Enumeratori\Enumeratori\bin\Debug\net8.0\Enumeratori.pdb
+C:\Users\Sammy\OneDrive\Desktop\C#\Enumeratori\Enumeratori\obj\Debug\net8.0\Enumeratori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sammy\OneDrive\Desktop\C#\Enumeratori\Enumeratori\obj\Debug\net8.0\Enumeratori.AssemblyInfoInputs.cache
+C:\Users\Sammy\OneDrive\Desktop\C#\Enumeratori\Enumeratori\obj\Debug\net8.0\Enumeratori.AssemblyInfo.cs
+C:\Users\Sammy\OneDrive\Desktop\C#\Enumeratori\Enumeratori\obj\Debug\net8.0\Enumeratori.csproj.CoreCompileInputs.cache
+C:\Users\Sammy\OneDrive\Desktop\C#\Enumeratori\Enumeratori\obj\Debug\net8.0\Enumeratori.dll
+C:\Users\Sammy\OneDrive\Desktop\C#\Enumeratori\Enumeratori\obj\Debug\net8.0\refint\Enumeratori.dll
+C:\Users\Sammy\OneDrive\Desktop\C#\Enumeratori\Enumeratori\obj\Debug\net8.0\Enumeratori.pdb
+C:\Users\Sammy\OneDrive\Desktop\C#\Enumeratori\Enumeratori\obj\Debug\net8.0\Enumeratori.genruntimeconfig.cache
+C:\Users\Sammy\OneDrive\Desktop\C#\Enumeratori\Enumeratori\obj\Debug\net8.0\ref\Enumeratori.dll

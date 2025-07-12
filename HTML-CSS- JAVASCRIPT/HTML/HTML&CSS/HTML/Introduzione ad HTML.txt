@@ -1,0 +1,222 @@
+Introduzione all'HTML
+
+Che cos'è l'HTML?
+HTML (HyperText Markup Language) è un linguaggio di markup che indica ai browser Web come strutturare le pagine Web che visiti. Può essere complicato o semplice come desidera lo sviluppatore Web. HTML è costituito da una serie di elementi , che utilizzi per racchiudere, avvolgere o contrassegnare diverse parti del contenuto per farlo apparire o agire in un certo modo. I tag di chiusura possono trasformare il contenuto in un collegamento ipertestuale per connettersi a un'altra pagina, mettere in corsivo le parole e così via. Ad esempio, considera la seguente riga di testo:
+
+My cat is very grumpy
+
+Se volessimo che il testo fosse autonomo, potremmo specificare che si tratta di un paragrafo racchiudendolo in un <p>elemento paragraph ( ):
+
+codice html
+Copia negli appunti
+<p>My cat is very grumpy</p>
+
+Nota: i tag in HTML non sono sensibili alle maiuscole e alle minuscole. Ciò significa che possono essere scritti in maiuscolo o minuscolo. Ad esempio, un <title>tag potrebbe essere scritto come <title>, <TITLE>, <Title>, <TiTlE>, ecc. e funzionerà. Tuttavia, è buona norma scrivere tutti i tag in minuscolo per coerenza e leggibilità.
+
+Anatomia di un elemento HTML
+
+Esploriamo ulteriormente il nostro elemento paragrafo della sezione precedente:
+Un frammento di codice di esempio che mostra la struttura di un elemento HTML.<p> Il mio gatto è molto scontroso </p>.
+
+L'anatomia del nostro elemento è:
+
+Il tag di apertura: è costituito dal nome dell'elemento (in questo esempio, p per paragrafo), racchiuso tra parentesi angolari di apertura e chiusura. Questo tag di apertura indica dove l'elemento inizia o inizia ad avere effetto. In questo esempio, precede l'inizio del testo del paragrafo.
+
+Il contenuto: questo è il contenuto dell'elemento. In questo esempio, è il testo del paragrafo.
+
+Il tag di chiusura: è uguale al tag di apertura, tranne per il fatto che include una barra prima del nome dell'elemento. Questo indica dove finisce l'elemento. Non includere un tag di chiusura è un errore comune dei principianti che può produrre risultati peculiari.
+L'elemento è il tag di apertura, seguito dal contenuto, seguito dal tag di chiusura.
+
+Apprendimento attivo: creazione del primo elemento HTML
+Modifica la riga sottostante nell'area "Codice modificabile" racchiudendola con i tag <em>e </em>.Per aprire l'elemento , metti il ​​tag di apertura <em>all'inizio della riga. Per chiudere l'elemento , metti il ​​tag di chiusura </em>alla fine della riga. In questo modo la riga dovrebbe avere una formattazione di testo in corsivo! Guarda le tue modifiche aggiornate in tempo reale nell'area Output .
+
+Se commetti un errore, puoi cancellare il tuo lavoro usando il pulsante Reset . Se rimani davvero bloccato, premi il pulsante Show solution per vedere la risposta.
+
+
+
+Elementi di nidificazione
+
+Gli elementi possono essere posizionati all'interno di altri elementi. Questo si chiama annidamento . Se volessimo dire che il nostro gatto è molto scontroso, potremmo racchiudere la parola molto in un <strong>elemento, il che significa che la parola deve avere una formattazione del testo più forte:
+
+Codice html
+
+<p>My cat is <strong>very</strong> grumpy.</p>
+
+C'è un modo giusto e uno sbagliato per fare l'annidamento. Nell'esempio sopra, abbiamo aperto pprima l'elemento, poi abbiamo aperto l' strongelemento. Per un corretto annidamento, dovremmo strongprima chiudere l'elemento, prima di chiudere p.
+
+Di seguito è riportato un esempio del modo sbagliato di eseguire l'annidamento:
+
+Codice html
+<p>My cat is <strong>very grumpy.</p></strong>
+
+I tag devono aprirsi e chiudersi in modo tale da essere uno dentro o uno fuori dall'altro . Con il tipo di sovrapposizione nell'esempio sopra, il browser deve indovinare il tuo intento. Questo tipo di indovinare può dare origine a risultati inaspettati.
+
+Elementi vuoti
+Non tutti gli elementi seguono lo schema di un tag di apertura, contenuto e un tag di chiusura. Alcuni elementi sono costituiti da un singolo tag, che viene in genere utilizzato per inserire/incorporare qualcosa nel documento. Tali elementi sono chiamati elementi void . Ad esempio, l' <img>elemento incorpora un file immagine in una pagina:
+
+Codice html
+<img
+  src="https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png"
+  alt="Firefox icon" />
+
+
+Nota: in HTML, non è necessario aggiungere un /alla fine del tag di un elemento void, ad esempio: <img src="images/cat.jpg" alt="cat" />. Tuttavia, è anche una sintassi valida e puoi farlo quando vuoi che il tuo HTML sia un XML valido.
+
+Attributi
+
+Gli elementi possono anche avere attributi. Gli attributi hanno questo aspetto:
+tag paragrafo con attributo 'class="editor-note"' enfatizzato
+Gli attributi contengono informazioni extra sull'elemento che non appariranno nel contenuto. In questo esempio, l' classattributo è un nome identificativo utilizzato per indirizzare l'elemento con informazioni di stile.
+
+Un attributo dovrebbe avere:
+
+Uno spazio tra questo e il nome dell'elemento. (Per un elemento con più di un attributo, anche gli attributi devono essere separati da spazi.)
+Il nome dell'attributo, seguito da un segno di uguale.
+Un valore di attributo, racchiuso tra virgolette di apertura e chiusura.
+Apprendimento attivo: aggiungere attributi a un elemento
+L' <img>elemento può assumere diversi attributi, tra cui:
+
+src
+L' srcattributo è un attributo obbligatorio che specifica la posizione dell'immagine. Ad esempio: src="https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png".
+
+alt
+L' altattributo specifica una descrizione testuale dell'immagine. Ad esempio: alt="The Firefox icon".
+
+width
+L' widthattributo specifica la larghezza dell'immagine con l'unità pixel. Ad esempio: width="300".
+
+height
+L' heightattributo specifica l'altezza dell'immagine con l'unità pixel. Ad esempio: height="300".
+
+Modifica la riga sottostante nell'area di input per trasformarla in un'immagine.
+
+Trova la tua immagine preferita online, fai clic con il pulsante destro del mouse e premi Copia collegamento/indirizzo immagine .
+Torna nell'area sottostante, aggiungi l' src attributo e compilalo con il collegamento del passaggio 1.
+Imposta l' altattributo.
+
+Aggiungere gli attributi widthe height.
+Potrai vedere le modifiche in tempo reale nell'area Output .
+
+Se commetti un errore, puoi sempre resettarlo usando il pulsante Reset . Se rimani davvero bloccato, premi il pulsante Show solution per vedere la risposta.
+
+
+<!-- text input is allowed, as it doesn't contain the disabled attribute -->
+<input type="text" />
+Per riferimento, l'esempio sopra include anche un elemento di input del modulo non disabilitato. L'HTML dell'esempio sopra produce questo risultato:
+
+
+Omissione delle virgolette attorno ai valori degli attributi
+Se guardi il codice di molti altri siti, potresti imbatterti in una serie di strani stili di markup, inclusi valori di attributo senza virgolette. Ciò è consentito in determinate circostanze, ma può anche interrompere il tuo markup in altre circostanze. L'elemento nel frammento di codice sottostante, <a>, è chiamato ancora. Le ancore racchiudono il testo e lo trasformano in link. L' hrefattributo specifica l'indirizzo web a cui punta il link. Puoi scrivere questa versione di base sottostante solo con l' hrefattributo, in questo modo:
+
+Codice html
+<a href=https://www.mozilla.org/>favorite website</a>
+Le ancore possono anche avere un titleattributo, una descrizione della pagina collegata. Tuttavia, non appena aggiungiamo titlenello stesso modo dell'attributo, hrefsorgono dei problemi:
+
+Codice html
+<a href=https://www.mozilla.org/ title=The Mozilla homepage>favorite website</a>
+Come scritto sopra, il browser interpreta male il markup, scambiando l' titleattributo per tre attributi: un attributo title con il valore The, e due attributi booleani, Mozillae homepage. Ovviamente, questo non è intenzionale! Causerà errori o comportamenti inaspettati, come puoi vedere nell'esempio live qui sotto. Prova a passare il mouse sul collegamento per visualizzare il testo del titolo!
+
+
+Includere sempre le virgolette degli attributi. Evita tali problemi e produce un codice più leggibile.
+
+Virgolette singole o doppie?
+In questo articolo, noterai anche che gli attributi sono racchiusi tra virgolette doppie. Tuttavia, potresti vedere virgolette singole in qualche codice HTML. Questa è una questione di stile. Puoi sentirti libero di scegliere quale preferisci. Entrambe queste righe sono equivalenti:
+
+Codice html
+
+<a href='https://www.example.com'>A link to my example.</a>
+
+<a href="https://www.example.com">A link to my example.</a>
+Assicuratevi di non mischiare virgolette singole e doppie. Questo esempio (sotto) mostra un tipo di miscuglio di virgolette che potrebbe andare storto:
+
+Codice html
+
+<a href="https://www.example.com'>A link to my example.</a>
+Tuttavia, se utilizzi un tipo di citazione, puoi includere l'altro tipo di citazione nei valori degli attributi:
+
+Codice html
+<a href="https://www.example.com" title="Isn't this fun?">
+  A link to my example.
+</a>
+Per usare le virgolette all'interno di altre virgolette dello stesso tipo (virgolette singole o doppie), usa i riferimenti di carattere . Ad esempio, questo interromperà:
+
+Codice html
+
+<a href="https://www.example.com" title="An "interesting" reference">A link to my example.</a>
+Invece, devi fare questo:
+
+Codice html
+
+<a href="https://www.example.com" title="An &quot;interesting&quot; reference">A link to my example.</a>
+Anatomia di un documento HTML
+I singoli elementi HTML non sono molto utili da soli. Ora, esaminiamo come i singoli elementi si combinano per formare un'intera pagina HTML:
+
+Codice html
+
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <title>My test page</title>
+  </head>
+  <body>
+    <p>This is my page</p>
+  </body>
+</html>
+Qui abbiamo:
+
+<!doctype html>: Il doctype. Quando HTML era giovane (1991-1992), i doctype erano pensati per fungere da link a un set di regole che la pagina HTML doveva seguire per essere considerata un buon HTML. I doctype erano soliti apparire più o meno così:
+codice html
+Copia negli appunti
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Più di recente, il doctype è un artefatto storico che deve essere incluso affinché tutto il resto funzioni correttamente. <!doctype html>è la stringa di caratteri più corta che conta come un doctype valido. Questo è tutto ciò che devi sapere!
+
+<html></html>: L' <html>elemento. Questo elemento racchiude tutto il contenuto della pagina. A volte è noto come elemento radice.
+
+<head></head>: L' <head>elemento. Questo elemento funge da contenitore per tutto ciò che vuoi includere nella pagina HTML, che non è il contenuto che la pagina mostrerà ai visitatori. Ciò include parole chiave e una descrizione della pagina che apparirà nei risultati di ricerca, CSS per definire lo stile del contenuto, dichiarazioni di set di caratteri e altro ancora. Ne saprai di più nel prossimo articolo della serie.
+
+<meta charset="utf-8">: L' <meta>elemento. Questo elemento rappresenta metadati che non possono essere rappresentati da altri elementi HTML correlati ai metadati, come <base>, <link>, <script>, <style>o <title>. L' charsetattributo specifica la codifica dei caratteri per il tuo documento come UTF-8, che include la maggior parte dei caratteri della stragrande maggioranza delle lingue scritte umane. Con questa impostazione, la pagina può ora gestire qualsiasi contenuto testuale possa contenere. Non c'è motivo di non impostarlo e può aiutare a evitare alcuni problemi in seguito.
+
+<title></title>: L' <title>elemento. Imposta il titolo della pagina, che è il titolo che appare nella scheda del browser in cui viene caricata la pagina. Il titolo della pagina viene anche utilizzato per descrivere la pagina quando viene aggiunta ai preferiti.
+
+<body></body>: L' <body>elemento. Contiene tutto il contenuto visualizzato sulla pagina, inclusi testo, immagini, video, giochi, tracce audio riproducibili o qualsiasi altra cosa.
+Apprendimento attivo: aggiungere alcune funzionalità a un documento HTML
+Se vuoi sperimentare la scrittura di codice HTML sul tuo computer locale, puoi:
+
+Copiare l'esempio di pagina HTML elencato sopra.
+Crea un nuovo file nel tuo editor di testo.
+Incolla il codice nel nuovo file di testo.
+Salvare il file come index.html.
+Nota: puoi trovare questo modello HTML di base anche nel repository GitHub dell'area di apprendimento MDN .
+
+Ora puoi aprire questo file in un browser web per vedere come appare il codice renderizzato. Modifica il codice e aggiorna il browser per vedere qual è il risultato. Inizialmente, la pagina appare così:
+
+Una semplice pagina HTML che dice Questa è la mia pagina
+
+In questo esercizio, puoi modificare il codice localmente sul tuo computer, come descritto in precedenza, oppure puoi modificarlo nella finestra di esempio qui sotto (la finestra di esempio modificabile rappresenta solo il contenuto dell'elemento <body>, in questo caso). Affina le tue competenze implementando le seguenti attività:
+
+Appena sotto il tag di apertura dell'elemento <body>, aggiungi un titolo principale per il documento. Questo dovrebbe essere racchiuso in un <h1>tag di apertura e </h1>uno di chiusura.
+Modifica il contenuto del paragrafo inserendo del testo su un argomento che ritieni interessante.
+Fai risaltare le parole importanti in grassetto inserendole tra un <strong>tag di apertura e </strong>uno di chiusura.
+Aggiungi un collegamento al tuo paragrafo, come spiegato in precedenza nell'articolo .
+Aggiungi un'immagine al tuo documento. Posizionala sotto il paragrafo, come spiegato in precedenza nell'articolo . Guadagna punti bonus se riesci a creare un collegamento a un'immagine diversa (sia localmente sul tuo computer che da qualche altra parte sul web).
+Se commetti un errore, puoi sempre resettarlo usando il pulsante Reset . Se rimani davvero bloccato, premi il pulsante Show solution per vedere la risposta.
+
+
+
+
+Commenti HTML
+L'HTML ha un meccanismo per scrivere commenti nel codice. I browser ignorano i commenti, rendendoli di fatto invisibili all'utente. Lo scopo dei commenti è di permetterti di includere note nel codice per spiegare la tua logica o la tua codifica. Questo è molto utile se torni a una base di codice dopo essere stato assente per un tempo sufficientemente lungo da non ricordarla completamente. Allo stesso modo, i commenti sono inestimabili perché diverse persone apportano modifiche e aggiornamenti.
+
+Per scrivere un commento HTML, racchiudilo nei marcatori speciali <!--e -->. Ad esempio:
+
+codice html
+Copia negli appunti
+giocare
+<p>I'm not inside a comment</p>
+
+<!-- <p>I am!</p> -->
+Come puoi vedere di seguito, nell'output live viene visualizzato solo il primo paragrafo.
+
+
+

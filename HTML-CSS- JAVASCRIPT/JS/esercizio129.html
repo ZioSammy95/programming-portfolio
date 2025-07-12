@@ -1,0 +1,13 @@
+<div id="area"
+    style="width:200px; height:100px; background-color:lightgray; text-align:center; line-height:100px; cursor:pointer;">
+    Clicca col tasto destro qui
+</div>
+
+<script>
+    const area = document.getElementById("area");
+
+    area.addEventListener("contextmenu", function (event) {
+        event.preventDefault(); // blocca il menu contestuale di default
+        alert("Hai cliccato con il tasto destro!");
+    });
+</script>

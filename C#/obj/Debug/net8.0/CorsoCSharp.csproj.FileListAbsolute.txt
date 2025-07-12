@@ -1,0 +1,4 @@
+C:\Users\Sammy\OneDrive\Desktop\CorsoCSharp\obj\Debug\net8.0\CorsoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sammy\OneDrive\Desktop\CorsoCSharp\obj\Debug\net8.0\CorsoCSharp.AssemblyInfoInputs.cache
+C:\Users\Sammy\OneDrive\Desktop\CorsoCSharp\obj\Debug\net8.0\CorsoCSharp.AssemblyInfo.cs
+C:\Users\Sammy\OneDrive\Desktop\CorsoCSharp\obj\Debug\net8.0\CorsoCSharp.csproj.CoreCompileInputs.cache

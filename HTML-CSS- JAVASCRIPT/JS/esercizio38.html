@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Esercizio 38</title>
+</head>
+
+<body>
+
+    <script>
+
+        const arrayConDuplicati = [1, 2, 3, 1, 2, 3, 4, 5];
+        const arraySenzaDuplicati = [];
+
+        for (let elemento of arrayConDuplicati) {
+            if (!arraySenzaDuplicati.includes(elemento)) {
+                arraySenzaDuplicati.push(elemento);
+            }
+        }
+
+        console.log("Array senza duplicati:", arraySenzaDuplicati);
+
+    </script>
+</body>
+
+</html>

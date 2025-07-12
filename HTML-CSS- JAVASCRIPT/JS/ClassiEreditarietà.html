@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="it">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Classi ed Ereditarietà in JavaScript</title>
+
+
+    <style>
+        input[type="text"] {
+            display: block;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <script>
+        class Persona {
+            constructor(nome, cognome, eta, genere, interessi) {
+                this.nome = nome;
+                this.cognome = cognome;
+                this.eta = eta;
+                this.genere = genere;
+                this.interessi = interessi;
+            }
+            saluta() {
+                console.log(`Ciao, sono ${this.nome} ${this.cognome}`);
+            }
+        }
+  
+
+        class Insegnante extends Persona {
+            constructor(nome, cognome, eta, genere, interessi, materia) {
+                super(nome, cognome, eta, genere, interessi);
+                this.materia = materia;
+            }
+
+            get materia() {
+                return this._materia;
+            }
+            set materia(nuovaMateria) {
+                this._materia = nuovaMateria;
+            }
+            riprendiAlunno(nomeAlunno) {
+                console.log(`${nomeAlunno} non si mangia in classe!`);
+            }
+            saluta() {
+                console.log(`Buongiorno, sono ${this.nome} ${this.cognome}`);
+            }
+        }
+
+
+        const insegnante = new Insegnante("Anna", "Blu", 32, "Femminile", ["Matematica", "Fisica"], "Storia");
+        insegnante.riprendiAlunno("Samuele");
+
+    </script>
+
+
+    </script>

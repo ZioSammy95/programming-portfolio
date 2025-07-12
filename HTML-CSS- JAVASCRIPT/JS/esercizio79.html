@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <title>Esercizio 79</title>
+</head>
+
+<body>
+    <script>
+        const punteggio = 85;
+        let valutazione;
+
+        switch (true) {
+            case punteggio >= 90:
+                valutazione = "A";
+                break;
+            case punteggio >= 80:
+                valutazione = "B";
+                break;
+            case punteggio >= 70:
+                valutazione = "C";
+                break;
+            case punteggio >= 60:
+                valutazione = "D";
+                break;
+            default:
+                valutazione = "E";
+        }
+
+        console.log(`La valutazione per il punteggio ${punteggio} è: ${valutazione}`);
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,13 @@
+<img id="foto" src="immagine.jpg" alt="Foto" width="300">
+
+<script>
+    const img = document.getElementById("foto");
+
+    img.addEventListener("load", function () {
+        console.log("L'immagine è stata caricata con successo!");
+    });
+
+    img.addEventListener("error", function () {
+        console.log("Errore nel caricamento dell'immagine.");
+    });
+</script>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Esercizio 144</title>
+    <style>
+        input[type="text"] {
+            display: block;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <script>
+        class Veicolo {
+            constructor(marca, anno) {
+                this.marca = marca;
+                this.anno = anno;
+            }
+        }
+
+        class Automobile extends Veicolo {
+            constructor(marca, anno, modello) {
+                super(marca, anno);
+                this.modello = modello;
+            }
+        }
+
+        const automobile = new Automobile("Fiat", 2020, "Panda");
+        console.log(automobile.marca, automobile.anno, automobile.modello);
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,14 @@
+C:\Users\Sammy\source\repos\InputUtente\InputUtente\bin\Debug\net8.0\InputUtente.exe
+C:\Users\Sammy\source\repos\InputUtente\InputUtente\bin\Debug\net8.0\InputUtente.deps.json
+C:\Users\Sammy\source\repos\InputUtente\InputUtente\bin\Debug\net8.0\InputUtente.runtimeconfig.json
+C:\Users\Sammy\source\repos\InputUtente\InputUtente\bin\Debug\net8.0\InputUtente.dll
+C:\Users\Sammy\source\repos\InputUtente\InputUtente\bin\Debug\net8.0\InputUtente.pdb
+C:\Users\Sammy\source\repos\InputUtente\InputUtente\obj\Debug\net8.0\InputUtente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sammy\source\repos\InputUtente\InputUtente\obj\Debug\net8.0\InputUtente.AssemblyInfoInputs.cache
+C:\Users\Sammy\source\repos\InputUtente\InputUtente\obj\Debug\net8.0\InputUtente.AssemblyInfo.cs
+C:\Users\Sammy\source\repos\InputUtente\InputUtente\obj\Debug\net8.0\InputUtente.csproj.CoreCompileInputs.cache
+C:\Users\Sammy\source\repos\InputUtente\InputUtente\obj\Debug\net8.0\InputUtente.dll
+C:\Users\Sammy\source\repos\InputUtente\InputUtente\obj\Debug\net8.0\refint\InputUtente.dll
+C:\Users\Sammy\source\repos\InputUtente\InputUtente\obj\Debug\net8.0\InputUtente.pdb
+C:\Users\Sammy\source\repos\InputUtente\InputUtente\obj\Debug\net8.0\InputUtente.genruntimeconfig.cache
+C:\Users\Sammy\source\repos\InputUtente\InputUtente\obj\Debug\net8.0\ref\InputUtente.dll

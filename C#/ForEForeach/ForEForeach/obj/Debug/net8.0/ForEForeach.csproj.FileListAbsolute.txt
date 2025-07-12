@@ -1,0 +1,14 @@
+C:\Users\Sammy\OneDrive\Desktop\C#\ForEForeach\ForEForeach\bin\Debug\net8.0\ForEForeach.exe
+C:\Users\Sammy\OneDrive\Desktop\C#\ForEForeach\ForEForeach\bin\Debug\net8.0\ForEForeach.deps.json
+C:\Users\Sammy\OneDrive\Desktop\C#\ForEForeach\ForEForeach\bin\Debug\net8.0\ForEForeach.runtimeconfig.json
+C:\Users\Sammy\OneDrive\Desktop\C#\ForEForeach\ForEForeach\bin\Debug\net8.0\ForEForeach.dll
+C:\Users\Sammy\OneDrive\Desktop\C#\ForEForeach\ForEForeach\bin\Debug\net8.0\ForEForeach.pdb
+C:\Users\Sammy\OneDrive\Desktop\C#\ForEForeach\ForEForeach\obj\Debug\net8.0\ForEForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sammy\OneDrive\Desktop\C#\ForEForeach\ForEForeach\obj\Debug\net8.0\ForEForeach.AssemblyInfoInputs.cache
+C:\Users\Sammy\OneDrive\Desktop\C#\ForEForeach\ForEForeach\obj\Debug\net8.0\ForEForeach.AssemblyInfo.cs
+C:\Users\Sammy\OneDrive\Desktop\C#\ForEForeach\ForEForeach\obj\Debug\net8.0\ForEForeach.csproj.CoreCompileInputs.cache
+C:\Users\Sammy\OneDrive\Desktop\C#\ForEForeach\ForEForeach\obj\Debug\net8.0\ForEForeach.dll
+C:\Users\Sammy\OneDrive\Desktop\C#\ForEForeach\ForEForeach\obj\Debug\net8.0\refint\ForEForeach.dll
+C:\Users\Sammy\OneDrive\Desktop\C#\ForEForeach\ForEForeach\obj\Debug\net8.0\ForEForeach.pdb
+C:\Users\Sammy\OneDrive\Desktop\C#\ForEForeach\ForEForeach\obj\Debug\net8.0\ForEForeach.genruntimeconfig.cache
+C:\Users\Sammy\OneDrive\Desktop\C#\ForEForeach\ForEForeach\obj\Debug\net8.0\ref\ForEForeach.dll

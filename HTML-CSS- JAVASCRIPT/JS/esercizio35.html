@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Esercizio 35</title>
+</head>
+<body>
+
+    <script>
+        const numeri = [1, 2, 3, 4, 5];
+        let minimo =numeri[0];
+
+        for (let numero of numeri) {
+            if(numero < minimo) {
+                minimo = numero; // Aggiorna il minimo se il numero corrente è minore
+            }
+        }
+        console.log("Il minimo degli elementi è : ", minimo); // Stampa il minimo totale
+    </script>
+
+</body>
+</html>

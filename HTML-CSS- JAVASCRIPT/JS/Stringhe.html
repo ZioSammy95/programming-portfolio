@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stringhe in JavaScript</title>
+</head>
+
+<body>
+    <script>
+        let nome = "Samuele";
+        let testo = "Ciao sono " + nome + " e sto imparando JavaScript!";
+        let testo1 = "Ciao sono " + nome + " e sto imparando JavaScript!";
+        let elemento = `<h1>${testo1} bellissimo </h1>`;
+
+        document.body.innerHTML = elemento;
+        console.log(testo);
+        console.log(testo1);
+        console.log("La lunghezza del testo è: " + testo.length);
+
+
+        const stringa = "Ciao, mondo!";
+        console.log("La lunghezza della stringa è: " + stringa.length);
+        console.log("La stringa in maiuscolo è: " + stringa.toUpperCase());
+        console.log("La stringa in minuscolo è: " + stringa.toLowerCase());
+
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio145\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{228A04C9-2BE5-426C-8DD2-503CA519E424}|Esercizio145\\Esercizio145.csproj|c:\\users\\sammy\\onedrive\\desktop\\c#\\esercizio145\\esercizio145\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{228A04C9-2BE5-426C-8DD2-503CA519E424}|Esercizio145\\Esercizio145.csproj|solutionrelative:esercizio145\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio145\\Esercizio145\\Program.cs",
+              "RelativeDocumentMoniker": "Esercizio145\\Program.cs",
+              "ToolTip": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio145\\Esercizio145\\Program.cs",
+              "RelativeToolTip": "Esercizio145\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:59:02.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

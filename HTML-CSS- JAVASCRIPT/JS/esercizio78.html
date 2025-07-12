@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <title>Esercizio 78</title>
+</head>
+
+<body>
+    <script>
+        const latoA = 5;
+        const latoB = 4;
+        const latoC = 5;
+        let tipoTriangolo;
+
+        switch (true) {
+            case latoA === latoB && latoB === latoC:
+                tipoTriangolo = "Equilatero";
+                break;
+            case latoA === latoB || latoB === latoC || latoA === latoC:
+                tipoTriangolo = "Isoscele";
+                break;
+            default:
+                tipoTriangolo = "Scaleno";
+        }
+
+        console.log(tipoTriangolo);
+    </script>
+</body>
+
+</html>

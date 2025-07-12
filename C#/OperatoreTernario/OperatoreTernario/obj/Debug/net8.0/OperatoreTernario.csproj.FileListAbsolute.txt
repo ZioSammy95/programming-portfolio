@@ -1,0 +1,14 @@
+C:\Users\Sammy\OneDrive\Desktop\C#\OperatoreTernario\OperatoreTernario\bin\Debug\net8.0\OperatoreTernario.exe
+C:\Users\Sammy\OneDrive\Desktop\C#\OperatoreTernario\OperatoreTernario\bin\Debug\net8.0\OperatoreTernario.deps.json
+C:\Users\Sammy\OneDrive\Desktop\C#\OperatoreTernario\OperatoreTernario\bin\Debug\net8.0\OperatoreTernario.runtimeconfig.json
+C:\Users\Sammy\OneDrive\Desktop\C#\OperatoreTernario\OperatoreTernario\bin\Debug\net8.0\OperatoreTernario.dll
+C:\Users\Sammy\OneDrive\Desktop\C#\OperatoreTernario\OperatoreTernario\bin\Debug\net8.0\OperatoreTernario.pdb
+C:\Users\Sammy\OneDrive\Desktop\C#\OperatoreTernario\OperatoreTernario\obj\Debug\net8.0\OperatoreTernario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sammy\OneDrive\Desktop\C#\OperatoreTernario\OperatoreTernario\obj\Debug\net8.0\OperatoreTernario.AssemblyInfoInputs.cache
+C:\Users\Sammy\OneDrive\Desktop\C#\OperatoreTernario\OperatoreTernario\obj\Debug\net8.0\OperatoreTernario.AssemblyInfo.cs
+C:\Users\Sammy\OneDrive\Desktop\C#\OperatoreTernario\OperatoreTernario\obj\Debug\net8.0\OperatoreTernario.csproj.CoreCompileInputs.cache
+C:\Users\Sammy\OneDrive\Desktop\C#\OperatoreTernario\OperatoreTernario\obj\Debug\net8.0\OperatoreTernario.dll
+C:\Users\Sammy\OneDrive\Desktop\C#\OperatoreTernario\OperatoreTernario\obj\Debug\net8.0\refint\OperatoreTernario.dll
+C:\Users\Sammy\OneDrive\Desktop\C#\OperatoreTernario\OperatoreTernario\obj\Debug\net8.0\OperatoreTernario.pdb
+C:\Users\Sammy\OneDrive\Desktop\C#\OperatoreTernario\OperatoreTernario\obj\Debug\net8.0\OperatoreTernario.genruntimeconfig.cache
+C:\Users\Sammy\OneDrive\Desktop\C#\OperatoreTernario\OperatoreTernario\obj\Debug\net8.0\ref\OperatoreTernario.dll

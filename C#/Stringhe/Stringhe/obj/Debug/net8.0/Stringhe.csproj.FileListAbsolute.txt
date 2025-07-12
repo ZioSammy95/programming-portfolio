@@ -1,0 +1,14 @@
+C:\Users\Sammy\source\repos\Stringhe\Stringhe\bin\Debug\net8.0\Stringhe.exe
+C:\Users\Sammy\source\repos\Stringhe\Stringhe\bin\Debug\net8.0\Stringhe.deps.json
+C:\Users\Sammy\source\repos\Stringhe\Stringhe\bin\Debug\net8.0\Stringhe.runtimeconfig.json
+C:\Users\Sammy\source\repos\Stringhe\Stringhe\bin\Debug\net8.0\Stringhe.dll
+C:\Users\Sammy\source\repos\Stringhe\Stringhe\bin\Debug\net8.0\Stringhe.pdb
+C:\Users\Sammy\source\repos\Stringhe\Stringhe\obj\Debug\net8.0\Stringhe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sammy\source\repos\Stringhe\Stringhe\obj\Debug\net8.0\Stringhe.AssemblyInfoInputs.cache
+C:\Users\Sammy\source\repos\Stringhe\Stringhe\obj\Debug\net8.0\Stringhe.AssemblyInfo.cs
+C:\Users\Sammy\source\repos\Stringhe\Stringhe\obj\Debug\net8.0\Stringhe.csproj.CoreCompileInputs.cache
+C:\Users\Sammy\source\repos\Stringhe\Stringhe\obj\Debug\net8.0\Stringhe.dll
+C:\Users\Sammy\source\repos\Stringhe\Stringhe\obj\Debug\net8.0\refint\Stringhe.dll
+C:\Users\Sammy\source\repos\Stringhe\Stringhe\obj\Debug\net8.0\Stringhe.pdb
+C:\Users\Sammy\source\repos\Stringhe\Stringhe\obj\Debug\net8.0\Stringhe.genruntimeconfig.cache
+C:\Users\Sammy\source\repos\Stringhe\Stringhe\obj\Debug\net8.0\ref\Stringhe.dll

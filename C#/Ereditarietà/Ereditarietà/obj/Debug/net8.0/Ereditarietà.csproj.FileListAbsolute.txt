@@ -1,0 +1,14 @@
+C:\Users\Sammy\OneDrive\Desktop\C#\Ereditarietà\Ereditarietà\obj\Debug\net8.0\Ereditarietà.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sammy\OneDrive\Desktop\C#\Ereditarietà\Ereditarietà\obj\Debug\net8.0\Ereditarietà.AssemblyInfoInputs.cache
+C:\Users\Sammy\OneDrive\Desktop\C#\Ereditarietà\Ereditarietà\obj\Debug\net8.0\Ereditarietà.AssemblyInfo.cs
+C:\Users\Sammy\OneDrive\Desktop\C#\Ereditarietà\Ereditarietà\obj\Debug\net8.0\Ereditarietà.csproj.CoreCompileInputs.cache
+C:\Users\Sammy\OneDrive\Desktop\C#\Ereditarietà\Ereditarietà\bin\Debug\net8.0\Ereditarietà.exe
+C:\Users\Sammy\OneDrive\Desktop\C#\Ereditarietà\Ereditarietà\bin\Debug\net8.0\Ereditarietà.deps.json
+C:\Users\Sammy\OneDrive\Desktop\C#\Ereditarietà\Ereditarietà\bin\Debug\net8.0\Ereditarietà.runtimeconfig.json
+C:\Users\Sammy\OneDrive\Desktop\C#\Ereditarietà\Ereditarietà\bin\Debug\net8.0\Ereditarietà.dll
+C:\Users\Sammy\OneDrive\Desktop\C#\Ereditarietà\Ereditarietà\bin\Debug\net8.0\Ereditarietà.pdb
+C:\Users\Sammy\OneDrive\Desktop\C#\Ereditarietà\Ereditarietà\obj\Debug\net8.0\Ereditarietà.dll
+C:\Users\Sammy\OneDrive\Desktop\C#\Ereditarietà\Ereditarietà\obj\Debug\net8.0\refint\Ereditarietà.dll
+C:\Users\Sammy\OneDrive\Desktop\C#\Ereditarietà\Ereditarietà\obj\Debug\net8.0\Ereditarietà.pdb
+C:\Users\Sammy\OneDrive\Desktop\C#\Ereditarietà\Ereditarietà\obj\Debug\net8.0\Ereditarietà.genruntimeconfig.cache
+C:\Users\Sammy\OneDrive\Desktop\C#\Ereditarietà\Ereditarietà\obj\Debug\net8.0\ref\Ereditarietà.dll

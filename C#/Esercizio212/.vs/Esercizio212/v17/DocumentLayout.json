@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio212\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37E54903-9151-45EE-9035-BFFC133C4767}|Esercizio212\\Esercizio212.csproj|c:\\users\\sammy\\onedrive\\desktop\\c#\\esercizio212\\esercizio212\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E54903-9151-45EE-9035-BFFC133C4767}|Esercizio212\\Esercizio212.csproj|solutionrelative:esercizio212\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E54903-9151-45EE-9035-BFFC133C4767}|Esercizio212\\Esercizio212.csproj|c:\\users\\sammy\\onedrive\\desktop\\c#\\esercizio212\\esercizio212\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E54903-9151-45EE-9035-BFFC133C4767}|Esercizio212\\Esercizio212.csproj|solutionrelative:esercizio212\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio212\\Esercizio212\\Prodotto.cs",
+              "RelativeDocumentMoniker": "Esercizio212\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio212\\Esercizio212\\Prodotto.cs",
+              "RelativeToolTip": "Esercizio212\\Prodotto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:41:15.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio212\\Esercizio212\\Program.cs",
+              "RelativeDocumentMoniker": "Esercizio212\\Program.cs",
+              "ToolTip": "C:\\Users\\Sammy\\OneDrive\\Desktop\\C#\\Esercizio212\\Esercizio212\\Program.cs",
+              "RelativeToolTip": "Esercizio212\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:41:06.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

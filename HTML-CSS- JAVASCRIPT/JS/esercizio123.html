@@ -1,0 +1,14 @@
+<select id="frutta">
+    <option value="mela">Mela</option>
+    <option value="banana">Banana</option>
+    <option value="arancia">Arancia</option>
+</select>
+
+<script>
+    const select = document.getElementById("frutta");
+
+    select.addEventListener("change", function () {
+        const scelta = select.value;
+        alert("Hai selezionato: " + scelta);
+    });
+</script>
