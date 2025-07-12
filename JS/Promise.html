@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Promise in Javascript</title>
+    <style>
+
+    </style>
+</head>
+
+<body>
+
+    <script>
+
+/*       chooseToppings()
+            .then(toppings => {
+                return placeOrder(toppings);
+            })
+            .then(order => {
+                return collectOrder(order);
+            })
+            .then(pizza => {
+                eatPizza(pizza);
+            })
+            .catch(failureCallback);
+
+        fetch('c:\\Users\\Sammy\\OneDrive\\Desktop\\PortFolio\\HTML\\images\\amsterdam1.jpg')
+            .then(response => {
+                return response.blob();
+            })
+
+            .then(myBlob => {
+                let objectURL = URL.createObjectURL(myBlob);
+                let image = document.createElement('img');
+                image.src = objectURL;
+                document.body.appendChild(image);
+            })
+            .catch(e => {
+                console.error('There has been a problem with your fetch operation:', e.message);
+            }); */
+
+
+      //  let timeoutPromise = new Promise((resolve, reject) => {
+      //      setTimeout(function () {
+      //          resolve('Success!');
+      //      }, 2000);
+      //  });
+
+        function timeoutPromise(message, interval) {
+            return new Promise((resolve, reject) => {
+                if (message === '' || typeof message !== 'string') {
+                    reject('Message is empty or not a string');
+                } else if (interval < 0 || typeof interval !== 'number') {
+                    reject('Interval is negative or not a number');
+                } else {
+                    setTimeout(function () {
+                        resolve(message);
+                    }, interval);
+                }
+            });
+        }
+
+        timeoutPromise('', 1000)
+            .then(message => {
+                alert(message);
+            })
+            .catch(e => {
+                console.log('Error:', e);
+            });
+
+
+    </script>
+</body>
+
+
+</html>

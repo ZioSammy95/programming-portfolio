@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Esercizio 177</title>
+</head>
+
+<body>
+
+
+    <script>
+        function eseguiChiamata(numero) {
+            // Simulate an async operation with Promise
+            return new Promise(function(resolve, reject) {
+                setTimeout(function() {
+                    resolve("Risultato " + numero);
+                }, 1000 * numero);
+            });
+        }
+        const promessa1 = eseguiChiamata(1);
+        const promessa2 = eseguiChiamata(2);
+        const promessa3 = eseguiChiamata(3);
+
+        Promise.all([promessa1, promessa2, promessa3])
+            .then(function (risultati) {
+                console.log(risultati);
+            })
+            .catch(function (errore) {
+                console.log(errore);
+            });
+    </script>
+</body>
+
+</html>

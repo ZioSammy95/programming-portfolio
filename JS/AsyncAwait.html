@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Async e Await in Javascript</title>
+</head>
+
+<body>
+
+    <script>
+        const p1 = Promise.resolve(3);
+        const p2 = 1337;
+        const p3 = new Promise((resolve, reject) => {
+            setTimeout(() => {
+                resolve("foo");
+            }, 100);
+        });
+
+        Promise.all([p1, p2, p3]).then((values) => {
+            console.log(values); // [3, 1337, "foo"]
+        });
+
+    </script>
+</body>
+
+</html>
