@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Esercizio DOM</title>
+    <style>
+        .hidden {
+            display: none;
+        }
+
+        .evidenziato {
+            background-color: orangered;
+        }
+
+        .nuova-classe {
+            color: orangered;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1 id="titolo">Pagina JS di Samuele</h1>
+    <p class="testo">Paragrafo da modificare</p>
+    <ul>
+        <li>Elemento 1</li>
+        <li>Elemento 2</li>
+    </ul>
+
+    <div class="contenitore">
+        <span class="item">Voce 1</span>
+        <span class="item">Voce 2</span>
+    </div>
+
+    <input type="text" id="inputTesto" value="Ciao mondo">
+    <select id="selectLingua">
+        <option value="it">Italiano</option>
+        <option value="en" selected>Inglese</option>
+    </select>
+
+    <label><input type="checkbox" id="accetto" checked> Accetto</label><br>
+
+    <label><input type="radio" name="genere" value="maschio"> Maschio</label>
+    <label><input type="radio" name="genere" value="femmina" checked> Femmina</label>
+
+    <div id="padre">
+        <p class="figlio">Figlio 1</p>
+        <p class="figlio">Figlio 2</p>
+    </div>
+
+    <div>
+        <p id="prev">Elemento precedente</p>
+        <p id="next">Elemento successivo</p>
+    </div>
+
+    <div>
+        <span data-info="importante">Elemento con attributo</span>
+        <span>Altro elemento</span>
+    </div>
+
+    <div class="contenitore-testuale">
+        <p>Questo è un testo importante</p>
+        <p>Questo è solo testo</p>
+    </div>
+
+    <img id="amsterdam1.jpg" src="amsterdam1.jpg" alt="Amsterdam">
+
+    <button onclick="eseguiEsercizi()">Esegui Tutti</button>
+
+    <script>
+        function eseguiEsercizi() {
+            // 1. Ottenere un elemento per ID e stamparne il contenuto
+            const titolo = document.getElementById('titolo');
+            console.log("Titolo:", titolo.textContent);
+
+            // 2. Ottenere un elemento per classe e modificare il suo stile
+            const testo = document.querySelector('.testo');
+            testo.style.color = 'blue';
+
+            // 3. Ottenere elementi per tag e aggiungere loro una classe
+            const liElements = document.getElementsByTagName('li');
+            for (let li of liElements) {
+                li.classList.add('nuova-classe');
+            }
+
+            // 4. Ottenere un elemento con selettore CSS e modificarne il testo
+            const item = document.querySelector('.item');
+            item.textContent = 'Modificato';
+
+            // 5. Ottenere tutti gli elementi con un selettore CSS e nasconderli
+            const items = document.querySelectorAll('.item');
+            items.forEach(el => el.classList.add('hidden'));
+
+            // 6. Ottenere il valore di un input di testo
+            const inputVal = document.getElementById('inputTesto').value;
+            console.log("Valore input:", inputVal);
+
+            // 7. Ottenere il valore selezionato di un select
+            const selectVal = document.getElementById('selectLingua').value;
+            console.log("Valore select:", selectVal);
+
+            // 8. Ottenere il valore di un checkbox
+            const checkboxVal = document.getElementById('accetto').checked;
+            console.log("Checkbox accettato?", checkboxVal);
+
+            // 9. Ottenere il valore di un radio selezionato
+            const radioSelezionato = document.querySelector('input[name="genere"]:checked');
+            console.log("Genere selezionato:", radioSelezionato.value);
+
+            // 10. Ottenere tutti gli elementi figli e aggiungere una classe
+            const padre = document.getElementById('padre');
+            const figli = padre.children;
+            for (let figlio of figli) {
+                figlio.classList.add('evidenziato');
+            }
+
+            // 11. Ottenere il primo figlio e modificarne il testo
+            const primoFiglio = padre.firstElementChild;
+            primoFiglio.textContent = "Figlio modificato";
+
+            // 12. Ottenere l'elemento successivo e nasconderlo
+            const prev = document.getElementById('prev');
+            const next = prev.nextElementSibling;
+            if (next) next.classList.add('hidden');
+
+            // 13. Ottenere l'elemento precedente e rimuovere una classe
+            const nextElement = document.getElementById('next');
+            const previous = nextElement.previousElementSibling;
+            if (previous) previous.classList.remove('nuova-classe');
+
+            // 14. Ottenere elementi con un attributo specifico e aggiungere una classe
+            const conAttributo = document.querySelectorAll('[data-info]');
+            conAttributo.forEach(el => el.classList.add('evidenziato'));
+
+            // 15. Ottenere elementi con un selettore CSS all'interno di un altro e modificare il contenuto
+            const contenitore = document.querySelector('.contenitore-testuale');
+            const paragrafi = contenitore.querySelectorAll('p');
+            paragrafi.forEach(p => p.textContent = "Contenuto aggiornato");
+
+            // 16. Ottenere elementi con classe specifica all'interno di un elemento e nasconderli
+            const figliDaNascondere = padre.querySelectorAll('.figlio');
+            figliDaNascondere.forEach(f => f.classList.add('hidden'));
+
+            // 17. Ottenere tutti gli elementi che contengono un testo specifico
+            const tuttiParagrafi = document.querySelectorAll('p');
+            tuttiParagrafi.forEach(p => {
+                if (p.textContent.includes("testo")) {
+                    p.classList.add('evidenziato');
+                }
+            });
+
+            // 18. Ottenere il valore di un attributo di un elemento
+            const img = document.getElementById('immagine');
+            const altText = img.getAttribute('alt');
+            console.log("Alt dell'immagine:", altText);
+        }
+    </script>
+
+</body>
+
+</html>

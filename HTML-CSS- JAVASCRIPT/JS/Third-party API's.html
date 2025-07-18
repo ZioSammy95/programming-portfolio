@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://api.mqcdn.com/sdk/mapquest-js/v1.3.2/mapquest.js" defer></script>
+    <link type="text/css" rel="stylesheet" href="https://api.mqcdn.com/sdk/mapquest-js/v1.3.2/mapquest.css" />
+    <title>API Terze Parti</title>
+
+    <style>
+    </style>
+
+</head>
+
+<body>
+
+    <div id="map"></div>
+
+    <script>
+        let map = L.mapquest.map('map', {
+            center: [45.4642, 9.1900], // Coordinates for Milan, Italy
+            layers: L.mapquest.tileLayer('map'),
+            zoom: 12
+        });
+    </script>
+</body>
+
+</html>
