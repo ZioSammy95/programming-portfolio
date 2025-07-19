@@ -20,9 +20,6 @@ Thanks for visiting!
 - [**Snake Game (C++)**](https://github.com/ZioSammy95/programming-portfolio/tree/master/SnakeGame)  
   A console-based Snake game demonstrating arrays and control flow.
 
-- [**To-Do List (Java)**](https://github.com/ZioSammy95/programming-portfolio/tree/master/Java)  
-  A simple GUI application built with Swing to manage daily tasks.
-
 - [**Portfolio Website (HTML/CSS/JS)**](https://github.com/ZioSammy95/programming-portfolio/tree/master/HTML-CSS-%20JAVASCRIPT)  
   A responsive personal website showcasing my work and skills.
 
